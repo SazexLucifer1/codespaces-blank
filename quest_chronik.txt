@@ -1,0 +1,980 @@
+# MASTER QUEST DATENBANK
+
+
+Hier ist eine Zusammenfassung der Quests, Meilensteine und Story Awards aus "The Summer That Never Was" (Kapitel 1-4).
+
+### The Summer That Never Was – Kampagnenübersicht
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Shenmen, Willowshore
+- **Beschreibung & Geheimnisse**: Die Kampagne beginnt in Willowshore, einer isolierten Siedlung, die von Geistern und Monstern heimgesucht wird. Die PCs sind Seelen, die seit über einem Jahrhundert in einem Gedankenreich gefangen sind und das Jahr 7108 immer wieder durchleben, ohne sich ihrer tatsächlichen Tötung durch Gouverneur Heh Shan-Bao bewusst zu sein. Im Jahr 7223 (der "realen" Zeit) beginnt der Holzbaron Mago Kai, Willowshore wiederaufzubauen, was das Gedankenreich stört und den PCs die Chance gibt, den Zeitloop zu durchbrechen. Die Geschichte folgt einer vieraktigen Kishotenketsu-Struktur.
+- **Ziel zum Abschluss**: Die PCs sollen die Mysterien des Gedankenreichs lüften, Willowshore von Monstern befreien und letztendlich einen Weg zurück in die lebendige Welt finden.
+- **Belohnung**:
+    - Die PCs sollten Stufe 4 erreichen, wenn sie das Abenteuer abschließen.
+    - Die PCs sollten Stufe 2 erreichen, wenn sie den zweiten der drei monströsen Anführer besiegen, die das Zentrum von Willowshore kontrollieren.
+    - Die PCs sollten Stufe 3 erreichen, bevor sie Kapitel 4 beginnen.
+
+### The Summer That Never Was (Zusammenfassung der Abenteuer)
+- **Kapitel**: 1
+- **Auftraggeber**: Kampagnenübersicht
+- **Ort/Region**: Willowshore
+- **Beschreibung & Geheimnisse**: "The Summer That Never Was" (Stufen 1–3) ist das erste Abenteuer. Die PCs finden Willowshore von Monstern befallen. Nach deren Besiegung entdecken sie, dass sie nicht weit reisen können – sie sind "verflucht". Später konfrontieren sie die Monster, die sie entführt haben, und entdecken eine Mauer der Geister.
+- **Ziel zum Abschluss**: Siehe das erste Abenteuer der Kampagne.
+- **Belohnung**: Keine explizite Belohnung hier, dies ist eine Inhaltsbeschreibung.
+
+### Strange Aggression
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Wald östlich von Willowshore
+- **Beschreibung & Geheimnisse**: Die PCs wachen im Wald östlich von Willowshore auf. Der Müller Choe Chung-hu sollte sie "auslösen", ist aber nicht erschienen. Beim Erkunden des Waldes werden sie von zwei riesigen Tausendfüßlern angegriffen, die ungewöhnlich aggressiv sind und verstörende Worte flüstern ("Fleisch... Knochen..."). Dies ist ein Zeichen für Kugaptees wachsenden Einfluss. Ein erfolgreicher DC 15 Natur- oder Überlebenscheck offenbart die ungewöhnliche Aggression; ein erfolgreicher DC 15 Okkultismus- oder Religionscheck weist auf übernatürlichen Einfluss hin.
+- **Ziel zum Abschluss**: Die riesigen Tausendfüßler besiegen.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### The Spiderless Gate (Wiederanzünden der Laterne am östlichen Eingang)
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Östlicher Eingang von Willowshore
+- **Beschreibung & Geheimnisse**: Nach dem Überqueren der Duyue-Flussbrücke erreichen die PCs den östlichen Eingang von Willowshore. Die steinerne Spinnenstatue "Ugly Cute", die dort stand, ist verschwunden, nur ein leerer Schrein bleibt. Die Laterne, die sie hielt, ist erloschen. DC 15 Gesellschafts- oder Willowshore-Wissen, um sich an die Statue (W30) und die Ewige Laterne (W11) zu erinnern. Spuren deuten darauf hin, dass die Statue zum Fluss ging. Wenn die PCs die Laterne wieder mit Öl füllen (aus dem Wachturm erhältlich), erhalten sie einen +2 Gegenstandsbonus auf Rettungswürfe gegen purpurrotes Mondlicht, und der pauschale Check für Blutregen steigt auf DC 18.
+- **Ziel zum Abschluss**: Die Laterne am östlichen Eingang wieder anzünden.
+- **Belohnung**: Gewährt den SC 20 EP für das Anzünden der Laterne.
+
+### Eastern Watchtower (Hai-ers Schicksal)
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Östlicher Wachturm
+- **Beschreibung & Geheimnisse**: Die PCs erreichen den östlichen Wachturm, wo sie vier Leichen finden (zwei Wachen, zwei Jinkin-Gremlins, die an Schlangenbissen starben). Im Turm versteckt sich die Wache Hai-er Ha (LN menschliche Wache, Stufe 1), verängstigt und mit Schuldgefühlen. Sie verlangt von den PCs, vier der acht Praktiken der Geistersaison aufzusagen, um zu beweisen, dass sie keine Monster sind (DC 10 Religion/Gesellschaft/Willowshore-Wissen zum Erinnern). Sie ist ungläubig über das Verschwinden von Ugly Cute und berichtet von gruseligen Geräuschen aus der Stadt. Sie möchte zu ihrer Tochter (bei Granny Hu) oder ihrem Mann (Matsuki-Anwesen). Hai-er wird die PCs begleiten, wenn sie sie freundlich stimmen, sonst versucht sie, allein zu ihrer Tochter zu gelangen. Bei unter 6 TP flieht sie.
+- **Ziel zum Abschluss**: Hai-er beruhigen und ihr Schicksal bestimmen.
+- **Belohnung**: Gewährt den SC EP, als hätten sie Ha Hai-er im Kampf besiegt, wenn sie sich mit ihr anfreunden. Wenn sie ihr helfen, sich mit ihrer Familie zu vereinen, erhält die Gruppe 1 Rufpunkt bei Northridge und Southbank.
+- **Belohnung (Items)**: Ein Leiterfedertoken und ein einzelner leuchtender Armbrustbolzen. Ein kleines Fass Laternenöl.
+
+### Returning Home
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Willowshore (PC-Heimstätten)
+- **Beschreibung & Geheimnisse**: Ein oder alle PCs könnten Häuser oder Familie in Willowshore haben und möchten die Sicherheit ihrer Heime überprüfen. In jedem Heim wartet eine kleinere Gefahr (bestimmt durch Wurf auf die Willowshore-Zufallsbegegnungstabelle). Freunde oder Familie sind sicher, wenn die PCs die Situation lösen.
+- **Ziel zum Abschluss**: Alle Heime der PCs besuchen und sichern.
+- **Belohnung**: Gewährt den SC 10 EP, wenn sie alle ihre Heime besuchen.
+- **Belohnung (Items)**:
+    - Zwei kleinere Heiltränke und ein gewöhnlicher Abenteurergegenstand im Wert von 2 GP oder weniger nach Wahl des SC.
+    - Eine vorhersagbare Silbermünze und ein Fläschchen mit einer Dosis Öl der Potenz.
+    - Vorräte für eine Alarmfalle, 10 SP und zwei geringere Geisterladungen.
+    - Ein Stück Kalteisen.
+
+### Making Contact: Southbank (Meeting Old Matsuki)
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki (Matsuki Shou)
+- **Ort/Region**: Matsuki Anwesen (W6)
+- **Beschreibung & Geheimnisse**: Das Matsuki-Anwesen ist voller Aktivitäten. Old Matsuki (Stimme der Southbank-Fraktion) empfängt die PCs mit Speis und Trank. Er fragt nach ihren Erlebnissen und bittet um Hilfe bei der Rückeroberung Willowshores. Er nennt vier Ziele:
+    1.  **Contacting Northridge**: Kontakt zu Granny Hu herstellen (Handelsbüro, S. 17).
+    2.  **Ugly Cute**: Die steinerne Spinnenstatue Ugly Cute aufspüren, von der Überlebende berichten, dass sie sich bewegt hat (S. 19).
+    3.  **The Invading Monsters**: Den Buso und die Jinkins auf der Dawnstep-Brücke (W11) besiegen. Er schlägt vor, den Buso mit vergiftetem Wein zu täuschen (Hinweis auf die Hand der Quelle, W19, S. 20).
+    4.  **The Unlit Lantern**: Die Ewige Laterne wieder anzünden. Er erklärt, dass dies drei durch Gebet gesegnete Kupfermünzen erfordert und gibt den PCs drei Münzen dafür (S. 22).
+- **Ziel zum Abschluss**: Old Matsuki treffen und seine Aufträge annehmen.
+- **Belohnung**: Gewährt den SC 40 EP für das erste Treffen mit Old Matsuki in diesem Abenteuer.
+
+### Making Contact: Northridge (Crossing the Waters)
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Ceiba Fluss / Woodraft See
+- **Beschreibung & Geheimnisse**: Da die Dawnstep-Brücke (W11) von Monstern besetzt ist, ist das Überqueren des Ceiba-Flusses schwierig. Der Fluss ist 20-25 Fuß tief (DC 15 Athletik zum Schwimmen). Der Damm (W14) kann geschlossen werden (DC 15 Athletik oder DC 13 Ingenieurwesen-Wissen), um den Wasserstand zu senken. Der Woodraft-See (W13) ist ruhiger, aber die Leichen ertrunkener Dorfbewohner haben ihn heimgesucht (Gefahrenstufe 3: Greifende Strömungen). Ruderboote können an den Ufern gefunden werden (DC 13 Wahrnehmung zum Suchen).
+- **Ziel zum Abschluss**: Den Ceiba-Fluss überqueren und Northridge erreichen.
+- **Belohnung**: Wenn die SC in diesem Abenteuer zum ersten Mal Northridge erreichen, erhalten sie 40 EP.
+
+### Making Contact: Northridge (Meeting Granny Hu)
+- **Kapitel**: 1
+- **Auftraggeber**: Granny Hu (Hu Ban-niang)
+- **Ort/Region**: Neues Handelsbüro (W21)
+- **Beschreibung & Geheimnisse**: Granny Hu (Anführerin der Northridge-Fraktion) und der Kofusachi-Kleriker Kim Gu-won halten sich im Handelsbüro auf. Granny Hu bittet die PCs um Hilfe, Willowshore zurückzuerobern, hat aber eigene Prioritäten:
+    1.  **Checking the Doctor**: Dr. Damihansig Mababangloob ("Doktor Dami") in der Hand der Quelle (W19) überprüfen (S. 20).
+    2.  **Missing Grandchildren**: Ihre Enkelkinder finden, die zuletzt in den nördlichen Trockenhöfen nahe dem Pilzhaus (W24) gesehen wurden (S. 21).
+    Sie weiß vage über die Ewige Laterne Bescheid, Kim Gu-won kennt die Details über die Segnung der Münzen.
+- **Ziel zum Abschluss**: Granny Hu treffen und ihre Aufträge annehmen.
+- **Belohnung**: Gewährt den SC 40 EP für das erste Treffen mit Granny Hu in diesem Abenteuer.
+
+### A1. The Trapped Hunter
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki (oder Erkundung/Event)
+- **Ort/Region**: Eine kleine Farm in Southbank
+- **Beschreibung & Geheimnisse**: Zwei Jinkins (Midori und Murasaki) und zwei aggressive Tiere (Wiesel Noodles, Rabe Sparrow) haben die halbelfische Jägerin Sumika (Variante Wilderer, Stufe 2, 2 TP) auf einer Farm gefangen, nachdem sie von einer Speerfalle verwundet wurde. Die Jinkins spielen ein Fangspiel mit gestohlenem Schmuck und verspotten Sumika. Sie halten die PCs fälschlicherweise für Oni. Die PCs können sie durch einen "Wettstreit des Geistes" ablenken (DC 13 Täuschung/Diplomatie/Einschüchtern oder DC 17 Gesellschafts- oder DC 15 Bauernhof-Wissen, um sie auf den Fehler im Wort "Abacus Sisters" hinzuweisen), um Sumika zur Flucht zu verhelfen. Andernfalls greifen die Jinkins an, fliehen aber bei unter 4 TP.
+- **Ziel zum Abschluss**: Sumika retten oder die Jinkins besiegen/vertreiben.
+- **Belohnung**: Belohnt die SC mit voller EP, als hätten sie die Abacus Sisters im Kampf besiegt, egal wie sie diese Begegnung lösen.
+- **Belohnung (Items)**: Vorräte für zwei Geisterfallen und zusätzliche Materialien für zwei weitere gewöhnliche Schlingen der Stufe 1.
+
+### A2. Clash at the Clinic
+- **Kapitel**: 1
+- **Auftraggeber**: Granny Hu (oder Erkundung/Event)
+- **Ort/Region**: Hand der Quelle (W19)
+- **Beschreibung & Geheimnisse**: Die Klinik von Doktor Dami (einem Halbflick-Gastwirt, Stufe 1) dient als Zufluchtsort. Gigantische Tausendfüßler greifen an. Ein geisterhafter Gecko (Hütergeist, Kreatur 1) kämpft gegen zwei Tausendfüßler, während drei weitere die PCs angreifen. Doktor Dami bittet die PCs, den Gecko zu verschonen. Wenn die Tausendfüßler besiegt und der Gecko nicht angegriffen wird, verschwindet er. Doktor Dami bietet Heilung an und Zugang zu seinem Qi Zhong Schrein. Jubei erwähnt den Nalinivati Schrein. Dami kann Traumtee (betäubender Wein) bereitstellen, wenn die PCs den Buso auf der Brücke betäuben wollen.
+- **Ziel zum Abschluss**: Die Tausendfüßler besiegen und Doktor Dami kontaktieren, idealerweise den geisterhaften Gecko verschonen.
+- **Belohnung**: Wenn die SC den Phantomsgecko am Leben lassen, erhalten sie volle EP, als hätten sie ihn besiegt.
+- **Belohnung (Items)**: Zwei geringere Gegengifte. Ein geringeres Dunkelsicht-Elixier (wenn der Gecko verschont bleibt).
+
+### The Worst Puzzle
+- **Kapitel**: 1
+- **Auftraggeber**: Granny Hu
+- **Ort/Region**: Nördliche Trockenhöfe nahe dem Pilzhaus (W24)
+- **Beschreibung & Geheimnisse**: Drei von Granny Hus Enkelkindern und ein Freund wurden von Jinkins in einem Holzfällerlager in eine tückische Falle gelockt. Sie sind in einem 10x10 Fuß großen Bereich zwischen Holzstapeln, Stolperdrähten und Holzkeilen gefangen. Der "Zufällige Holzstapel" ist eine Gefahr der Stufe 1. PCs müssen die Falle entschärfen (DC 17 Diebeskunst/Handwerk/Ingenieurwesen-Wissen), ohne dass sie kollabiert (1W6+5 Wuchtschaden).
+- **Ziel zum Abschluss**: Die vier gefangenen Jugendlichen befreien.
+- **Belohnung**: Die SC erhalten EP für jeden überlebenden Festteilnehmer, als hätten sie diesen im Kampf besiegt. Die Gruppe erhält außerdem 1 Rufpunkt bei Northridge.
+
+### Invoke Shrine Blessing (Münzen segnen)
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki (oder Kim Gu-won)
+- **Ort/Region**: Diverse Schreine in Willowshore (siehe Tabelle S. 23)
+- **Beschreibung & Geheimnisse**: Um die Ewige Laterne wieder anzuzünden, müssen drei gesegnete Kupfermünzen in ihren Brennstoffbehälter gelegt werden. PCs können die Aktivität "Schreinsegen anrufen" durchführen (10 Minuten, DC 15 Religion/Götterwissen oder DC 17 entsprechende Fertigkeit). Ein kritischer Erfolg heilt 1W8+8 TP und gewährt die einmalige Nutzung von Führung.
+- **Ziel zum Abschluss**: Drei Kupfermünzen durch Gebet an Schreinen segnen lassen.
+- **Belohnung**: (Teil der Belohnung für "Light the Night", keine separate Belohnung pro Segnung).
+
+### Liberating the Bridge (Spähmission)
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki
+- **Ort/Region**: Dawnstep-Brücke (W11)
+- **Beschreibung & Geheimnisse**: Die Dawnstep-Brücke ist von Gurglegut (Buso) und mehreren Jinkins besetzt. PCs können die Monster 10 Minuten lang beobachten (DC 15 Wahrnehmung). Ein kritischer Erfolg offenbart, dass die Jinkins Gemeinsprache sprechen, Gurglegut betrunken in Sylvan singt und die Namen der drei Anführer bekannt werden (Gurglegut, Gray Butcher, Mo Douqiu).
+- **Ziel zum Abschluss**: Die Monster auf der Dawnstep-Brücke erfolgreich ausspionieren.
+- **Belohnung**: Gewährt den SC 10 EP und 1 Rufpunkt bei beiden Fraktionen für das erfolgreiche Ausspionieren der Monster.
+
+### Retaking Dawnstep
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki
+- **Ort/Region**: Dawnstep-Brücke (W11)
+- **Beschreibung & Geheimnisse**: Der Buso Gurglegut (Kreatur 3) sitzt betrunken (Krank 3) auf einem provisorischen Thron auf der Brücke. Mehrere Jinkins machen ihm Spott und wollen unterhalten werden. Gurglegut greift an, wenn er provoziert wird oder PCs versuchen, ihn zu vertreiben. Er kann mit betäubendem Wein abgelenkt werden. Die Jinkins fliehen bei Angriff oder wenn Gurglegut ohnmächtig wird. Gurglegut kämpft bis zum Tod.
+- **Ziel zum Abschluss**: Gurglegut besiegen und die Dawnstep-Brücke zurückerobern.
+- **Belohnung**: Wenn die SC Willowshore von Gurglegut befreien und somit die Dawnstep-Brücke wieder öffnen, erhalten sie 1 Rufpunkt bei jeder Fraktion.
+- **Belohnung (Items)**: Ein Silberszepter mit Halbedelsteinen (15 GP), ein Deck mit vollen Zaubersprüchen (Cantrip Deck), drei alte Kupfermünzen (Wert 3 KP), die einst die Ewige Laterne beleuchteten.
+
+### Light the Night (Die Ewige Laterne)
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki
+- **Ort/Region**: Dawnstep-Brücke (W11)
+- **Beschreibung & Geheimnisse**: Die Ewige Laterne ist ein unbeweglicher magischer Gegenstand der Stufe 15. Sie wurde von Gurglegut gelöscht, der die darin befindlichen gesegneten Münzen entwendete. Um sie wieder anzuzünden, müssen die PCs drei gesegnete Kupfermünzen in den Käfig legen. Dies beendet sofort den Mirage-Nebel, den purpurroten Mond und den Blutregen in Willowshore. Tierische Kreaturen, die von Kugaptees Einfluss betroffen waren, kehren zur Normalität zurück. Die Götter, deren Segen die Münzen tragen, gewähren den PCs einen +1 Gegenstandsbonus auf Fertigkeitswürfe mit der göttlichen Fertigkeit des jeweiligen Gottes.
+- **Ziel zum Abschluss**: Die Ewige Laterne mit drei gesegneten Kupfermünzen wieder anzünden.
+- **Belohnung**: Gewährt den SC 80 EP für das erste Anzünden der Ewigen Laterne. Dies erhöht auch den Ruf der SC in der Stadt. Sie erhalten 1 Rufpunkt bei beiden Fraktionen von Willowshore für das erste Anzünden der Laterne.
+
+### B4. Prison (Befreiung der Wachen)
+- **Kapitel**: 2
+- **Auftraggeber**: Zheng Peng (Gefangener)
+- **Ort/Region**: Downtown Willowshore, Kaserne, Gefängnis (B4)
+- **Beschreibung & Geheimnisse**: Zehn gefangene Wachen, darunter Hauptmann Zheng Peng (menschlicher Wachofficer, Stufe 3), sind hier in sieben Zellen eingesperrt. Sie sind erschöpft, auf 1 TP und entkräftet 3. Zheng Peng weiß von einem versteckten Satz Ersatzschlüssel für die Zellen und die Waffenkammer unter einem losen Ziegelstein in der südwestlichen Ecke (DC 20 Wahrnehmung, um sie zu finden). Er berichtet, dass ein kahler Mann mit spitzen Zähnen und einem flexiblen Hals (Mo Douqiu) den Angriff auf die Kaserne organisiert hat.
+- **Ziel zum Abschluss**: Zheng Peng und die anderen Wachen befreien.
+- **Belohnung**: Die SC erhalten 40 EP und 1 Rufpunkt bei Northridge, wenn sie die Wachen retten.
+- **Belohnung (Items)**: Schlüssel zur Waffenkammer.
+
+### B5. Outdoor Prison Cell (Befreiung der Dorfbewohner)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Kaserne, Außengefängniszelle (B5)
+- **Beschreibung & Geheimnisse**: Vier Dorfbewohner sind in einem Bambuskäfig eingesperrt und befürchten, ins Teehaus geschickt zu werden. Sie können befreit werden, indem der Bambus mit einem erfolgreichen DC 22 Athletik-Check aufgebrochen oder der Käfig beschädigt wird (AC 16, Härte 5, 20 TP). Alternativ können die Schlüssel aus B4 verwendet werden.
+- **Ziel zum Abschluss**: Die gefangenen Dorfbewohner befreien.
+- **Belohnung**: Wenn die SC die Gefangenen retten und in Sicherheit bringen, erhalten sie 20 EP und 1 Rufpunkt bei Southbank.
+
+### B6. Armory (Waffenkammer)
+- **Kapitel**: 2
+- **Auftraggeber**: Zheng Peng (indirekt)
+- **Ort/Region**: Downtown Willowshore, Kaserne, Waffenkammer (B6)
+- **Beschreibung & Geheimnisse**: Die Türen zur Waffenkammer sind gut verschlossen und erfordern fünf erfolgreiche DC 30 Diebeskunst-Checks, um das Schloss zu knacken, oder den Schlüssel aus B4.
+- **Ziel zum Abschluss**: Zugang zur Waffenkammer erhalten.
+- **Belohnung**:
+    - Ein Dutzend standardmäßige Schuppenpanzer und Nietlederrüstungen.
+    - 10 Armbrüste, ein Fass mit 100 Bolzen, ein Dutzend Dolche, sechs Keulen und vier Saps.
+    - Vier geringere Frostphiolen, ein Kalteisen-Dolch, ein Kalteisen-Buckler, ein Silber-Kurzschwert und ein +1 Speer.
+
+### B7. Training Yard (Spurensuche)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Trainingsplatz (B7)
+- **Beschreibung & Geheimnisse**: Eine Spur blutiger Abdrücke führt von den Ställen durch das Nordtor des sandigen Trainingsplatzes.
+- **Ziel zum Abschluss**: Der Spur folgen.
+- **Belohnung**: Wenn die SC der Spur mit einem erfolgreichen DC 9 Überlebenscheck folgen, landen sie beim Happy Kappa (B15). Keine direkte EP.
+
+### B8. Infested Stables
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Infizierte Ställe (B8)
+- **Beschreibung & Geheimnisse**: Der Gestank von Innereien und verrottetem Fleisch liegt in der Luft. Ein Dutzend tote Pferde liegen in den Ställen. Ein Kakerlakenschwarm (Kreatur 2) hat sich in den eviszerierten Kadavern niedergelassen. Obwohl der Einfluss von Kugaptee nach dem Anzünden der Ewigen Laterne nachgelassen hat, bleibt der Schwarm gefräßig und kämpft bis zum Tod.
+- **Ziel zum Abschluss**: Den Kakerlakenschwarm besiegen.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### B10. Sanmi Household (Geheime Liebschaft)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Sanmi Haushalt (B10)
+- **Beschreibung & Geheimnisse**: Das Familienhaus wurde von Wertgegenständen ausgeraubt. Bei einem erfolgreichen DC 20 Wahrnehmungscheck beim Suchen entdecken die PCs einen Stapel Briefe in einem Fach unter einer Kommodenschublade. Diese enthüllen eine geheime und aufkeimende Beziehung zwischen Yuli Sanmi (junge Dorfbewohnerin) und Hu Lelong (junger Dorfbewohner), den jüngsten Generationen der Sanmi- und Hu-Familien. DC 10 Willowshore-Wissen oder DC 15 Gesellschaftscheck offenbart, dass die traditionelle Sanmi-Familie diese Beziehung missbilligen würde. Diese Notizen könnten nützlich sein, um die Situation in B11 zu lösen.
+- **Ziel zum Abschluss**: Die geheimen Liebesbriefe entdecken.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### B11. Mudwall House (Befreiung der Liebenden)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Mudwall House (B11)
+- **Beschreibung & Geheimnisse**: Das Haus der Witwe Nadoya Sanmi ist von sechs sehr betrunkenen Jinkins (Kreatur -1, mit schwachen Kreatur-Anpassungen) besetzt. Nadoya und der Rest der Sanmi-Familie sind in B12 gefangen, während Yuli Sanmi und Hu Lelong als "persönliche Diener" der Jinkins dienen und diese betrunken gemacht haben. Die Jinkins spielen ein Fangspiel mit gestohlenem Schmuck. Sie halten die PCs fälschlicherweise für Oni. Ein erfolgreicher DC 17 Einschüchtern-Check lässt alle sechs Jinkins fliehen. Andernfalls kämpfen sie bis zum Tod. Lelong bittet um Mittel für seine Flucht mit Yuli.
+- **Ziel zum Abschluss**: Die betrunkenen Jinkins besiegen/vertreiben und Yuli und Lelong retten.
+- **Belohnung**: Gewährt den SC EP für das Besiegen oder Vertreiben der Jinkins, bis zu einem Maximum von 80 EP, um die geringere Bedrohung zu berücksichtigen. Wenn die SC Schritte unternehmen, den gestohlenen Schmuck zurückzugeben, erhalten sie 1 Rufpunkt bei Northridge. Wenn die SC das junge Paar aktiv zur Flucht ermutigen oder dabei helfen, verlieren sie 1 Rufpunkt bei Southbank, und Nadoyas Haltung wird zu Beginn von Kapitel 3 automatisch unfreundlich.
+- **Belohnung (Items)**: Eine verfluchte Halskette (verleiht einen Geruch von verrottendem Knoblauch, -1 Gegenstandsstrafe auf Diplomatie- und Heimlichkeits-Checks), gestohlener Schmuck im Wert von insgesamt 75 GP (gehört verschiedenen Dorfbewohnern), eine erkennbare Halskette (Wert 10 GP), die einem SC gehört.
+
+### B12. Backyard Storage (Sanmi Familie)
+- **Kapitel**: 2
+- **Auftraggeber**: Nadoya Sanmi (Gefangene)
+- **Ort/Region**: Downtown Willowshore, Hinterhof-Lagerraum (B12)
+- **Beschreibung & Geheimnisse**: Nadoya und der Rest der Sanmi-Familie sind in diesem Lagerraum eingesperrt. Sie fragen nach den Jinkins in B11 und nach Yuli und Lelong.
+- **Ziel zum Abschluss**: Nadoya und ihre Familie befreien (nachdem B11 geklärt ist).
+- **Belohnung**: Wenn die Gremlins aus Bereich B10 vertrieben wurden, gibt Nadoya den SC als Dankbarkeit einen weinenden Engelsanhänger-Talisman. Im Hinterhof gibt es auch eine Reihe frischer Gurken – die SC können mit Nadoyas Erlaubnis so viele nehmen, wie sie möchten.
+- **Belohnung (Items)**: Ein weinender Engelsanhänger-Talisman. Frische Gurken.
+
+### B14. Bathhouse Lockers (Befreiung von De-ge)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Umkleideraum des Happy Kappa (B14)
+- **Beschreibung & Geheimnisse**: Der hypochondrische Besitzer des Badehauses, De-ge (Halbmond-Gastwirt, Stufe 1), ist in einem Spind stecken geblieben, nachdem er panisch versucht hatte, sich zu verstecken. Er jammert leise (DC 10 Wahrnehmung, um zu hören). Der Spind kann mit einem DC 17 Athletik-Check aufgebrochen oder mit einem DC 15 Diebeskunst-Check schadenfrei deaktiviert werden. Bei Beschädigung des Spinds nimmt De-ge halben Schaden. Er bittet die PCs, ihn zur Hand der Quelle (W19) zu bringen und die Kappas in B15 zu vertreiben.
+- **Ziel zum Abschluss**: De-ge befreien und zur Klinik eskortieren.
+- **Belohnung**: Gewährt den SC 20 EP, wenn sie De-ge zur Klinik eskortieren.
+
+### B15. Mostly Happy Kappas
+- **Kapitel**: 2
+- **Auftraggeber**: De-ge (oder Erkundung/Event)
+- **Ort/Region**: Downtown Willowshore, Bäder des Happy Kappa (B15)
+- **Beschreibung & Geheimnisse**: Fünf Kappas (Kreatur 2) entspannen in den steinernen Bädern, nachdem sie Pferdeinnereien aus den Ställen (B8) gegessen haben. Sie wurden von Mo Douqiu eingeladen, Willowshore zu übernehmen, bereuen ihre Entscheidung aber allmählich. Sie sind anfangs gleichgültig. Wenn die PCs sie mit einem erfolgreichen DC 17 Diplomatie-Check (Eindruck machen) freundlich stimmen können, erklären sich die Kappas bereit, die Stadt friedlich zu verlassen und zum Kürbissee (D2) zurückzukehren. Das Anbieten von Gurken (falls vorhanden) verbessert den Erfolg des Checks um einen Grad. Bei Feindseligkeit fliehen sie, anstatt zu kämpfen.
+- **Ziel zum Abschluss**: Die Kappas dazu bringen, Willowshore friedlich zu verlassen.
+- **Belohnung**: Wenn die SC die Kappas überzeugen, friedlich zu gehen, geben sie den SC eine Perle im Wert von 50 GP als Trinkgeld. Sollten die SC in dem unwahrscheinlichen Fall die fünf Kappas konfrontieren und töten, können sie diese Perle als Schatz beanspruchen. Wenn die SC die Kappas dazu bringen, durch Freundlichkeit zu gehen, erhalten sie 60 EP.
+- **Belohnung (Items)**: Eine Perle (50 GP).
+
+### B16. Public Stage
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Öffentliche Bühne (B16)
+- **Beschreibung & Geheimnisse**: Die Rückwand dieser offenen Bühne ist beschädigt. Drei Jinkins (Kreatur 1) toben auf dem Dach und führen ein improvisiertes, beleidigendes Stück über die Feigheit der Dorfbewohner auf. Wenn die PCs versuchen, zu gehen, werfen sie Dachziegel. Bei Schaden schreien die Jinkins und fliehen vollständig aus der Stadt.
+- **Ziel zum Abschluss**: Die Jinkins vertreiben.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### B17. Shelyn Shrine (Shelyns Segen)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event (Teil von "Blessing the Coins")
+- **Ort/Region**: Downtown Willowshore, Shelyn-Schrein (B17)
+- **Beschreibung & Geheimnisse**: Der Schrein zur Ewigen Rose ist verbarrikadiert, aber die keramische Statue Shelyns im Inneren ist intakt. Um Zugang zu erhalten, müssen die PCs die Bretter mit fünf erfolgreichen DC 15 Athletik-Checks aufbrechen. Wenn die Barrikade nicht wiederhergestellt wird, bemerken Monster den Schrein innerhalb von 24 Stunden und zerstören ihn, was zum Verlust von 2 Rufpunkten pro Fraktion und zum Verlust des Segens für bereits gesegnete Münzen führt.
+- **Ziel zum Abschluss**: Zugang zum Schrein erhalten, um Münzen für die Ewige Laterne zu segnen.
+- **Belohnung**: Keine direkte Belohnung hier, dies ist ein Teilziel für die Quest "Light the Night".
+
+### A Parade of Cookware (Gray Butcher)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Straßen von Downtown Willowshore
+- **Beschreibung & Geheimnisse**: Gray Butcher (Ittan-momen, Kreatur 2), der zweite der drei Monsteranführer, führt einen Schwarm animierter Kochgeräte (Kreatur 1) durch die Straßen. Er ist anfangs unfreundlich. Die PCs können versuchen, ihn mit Diplomatie gleichgültig zu stimmen, dann verlangt er, dass sie 15 Minuten am "Umzug" teilnehmen (DC 15 Zähigkeitswurf, um Ermüdung zu widerstehen). Verweigerung oder erneutes Treffen führt zum Kampf. Gray Butcher kämpft von hinten, bis beide Schwärme besiegt sind, dann greift er selbst an.
+- **Ziel zum Abschluss**: Gray Butcher besiegen oder vertreiben.
+- **Belohnung**: Für das Besiegen von Gray Butcher erhalten die SC 1 Rufpunkt bei jeder Fraktion.
+- **Belohnung (Items)**: Zwei Phiolen mit Öl der Potenz, zwei hypnotisierende Opal-Talismane, ein Paar Potenzkristall-Talismane und ein +1 Silberdolch in einer seidenumwickelten Lederscheide (Scheide im Wert von 10 GP).
+
+### C1. Public Floor (Warty)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Cerulean Teahouse, Erdgeschoss (C1)
+- **Beschreibung & Geheimnisse**: Das vormals elegante Teehaus ist durch Mo Douqius Jinkins verwüstet. Mo Douqius Riesenkrotte Warty (Kreatur 2) streift hier umher. Obwohl Kugaptees Einfluss nach dem Anzünden der Ewigen Laterne nachgelassen hat, bleibt Warty seinem Meister loyal und greift Eindringlinge an, kämpfend bis zum Tod. Mo Douqiu reagiert nicht auf Geräusche aus diesem Raum.
+- **Ziel zum Abschluss**: Warty besiegen und den Raum erkunden.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben, außer dem Testament des Teehausbesitzers.
+- **Belohnung (Items)**: Schriftstücke, die die finanziellen Probleme des Teehauses vor dem Kollaps von Lung Wa offenbaren, sowie das "Letzte Testament von Qing Mai-Lai", der letzten Besitzerin des Teehauses. Dieses Dokument ist entscheidend für spätere Quests zur Übernahme des Teehauses.
+
+### C2. Pantry Prison (Befreiung der Gefangenen)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Cerulean Teahouse, Speisekammer-Gefängnis (C2)
+- **Beschreibung & Geheimnisse**: Die beiden Türen dieses Raumes sind mit schweren Vorhängeschlössern gesichert (3x DC 20 Diebeskunst zum Schlösserknacken oder DC 25 Athletik zum Aufbrechen). Der Schlüssel ist bei Mo Douqiu. Die Speisekammer dient als Gefängnis für zwölf gefangene Dorfbewohner, die alle erschöpft, gefesselt und verängstigt sind. Der Ammoniakgeruch im Raum verursacht Krank 1 bei Scheitern eines DC 15 Zähigkeitswurfs.
+- **Ziel zum Abschluss**: Die gefangenen Dorfbewohner befreien.
+- **Belohnung**: Gewährt den SC 40 EP und 1 Rufpunkt bei jeder Fraktion, wenn sie diese Gefangenen befreien.
+
+### C3. Private Banquet Hall (Mo Douqiu)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Cerulean Teahouse, Privater Bankettsaal (C3)
+- **Beschreibung & Geheimnisse**: Dieses einst elegante Bankettzimmer ist nun ein Schmutzloch mit Essensflecken, zerbrochenem Geschirr und verstümmelten Leichen. Mo Douqiu (Rokurokubi, Stufe 2), der hedonistische Anführer der Monster, sitzt auf schmutzigen Kissen und wartet auf "neue Unterhaltung". Er provoziert die PCs zum Kampf und freut sich über die verursachte Gewalt. Er kann Leichen von der Decke fallen lassen (1W6+3 Wuchtschaden, DC 15 Reflex grundlegend; bei Misserfolg: liegend). Seine verbleibenden Haustiere (Warty, Stingy, Fluffy Whiskers) helfen ihm. Er kämpft bis zum Tod.
+- **Ziel zum Abschluss**: Mo Douqiu besiegen.
+- **Belohnung**: Für das Besiegen von Mo Douqiu erhalten die SC 1 Rufpunkt bei jeder Fraktion. Wenn sie sicherstellen, dass alle Leichen in diesem Raum von den Balken entfernt und respektvoll bedeckt oder anderweitig der Stadt präsentiert werden, um angemessene Beerdigungen vorzubereiten, erhalten die SC 1 zusätzlichen Rufpunkt bei jeder Fraktion.
+- **Belohnung (Items)**: Ein Fläschchen der Kameradschaft (Flask of Fellowship), Schlüssel zu C2.
+
+### C4. Second Floor (Stingy)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Downtown Willowshore, Cerulean Teahouse, Zweiter Stock (C4)
+- **Beschreibung & Geheimnisse**: Der zweite Stock des Teehauses ist verwüstet, mit tiefen Kratzern an Möbeln und Wänden. Ein Loch wurde in die nordöstliche Wand geschlagen. Die Treppe knarrt laut (-4 Gegenstandsstrafe auf Heimlichkeit beim Aufstieg). Mo Douqius letztes Haustier, der Höhlenskorpion Stingy (Kreatur 1), lauert in den Sparren und wartet auf Eindringlinge.
+- **Ziel zum Abschluss**: Stingy besiegen.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### Concluding Chapter 2 (Meilenstein und Ruf)
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Willowshore
+- **Beschreibung & Geheimnisse**: Dieses Kapitel endet, sobald die drei monströsen Anführer (Gurglegut, Gray Butcher, Mo Douqiu) besiegt und die Ewige Laterne wieder angezündet sind. Die verbleibenden Monster fliehen. Willowshore muss nun mit dem Verschwinden des Gouverneurs und des Anwesens umgehen. Die PCs sollten um diese Zeit Stufe 2 erreicht haben.
+- **Ziel zum Abschluss**: Alle drei Monster-Anführer besiegen und die Ewige Laterne anzünden.
+- **Belohnung**: Die PCs sollten Stufe 2 erreichen, wenn sie den zweiten der drei monströsen Anführer besiegen, die das Zentrum von Willowshore kontrollieren.
+
+### The Mysterious Merchant (Shinzo's Dienste)
+- **Kapitel**: 3
+- **Auftraggeber**: Shinzo (Shinigami-Händler)
+- **Ort/Region**: Downtown Willowshore
+- **Beschreibung & Geheimnisse**: Am Tag nach der Befreiung Willowshores trifft ein mysteriöser Händler namens Asahina Shinzo (heimlich ein Shinigami, Stufe 17) mit seinem Raben (Nosoi Psychopomp Yix, Stufe 1) in einem Pferdewagen ein. Er gibt sich als Reisender aus, bietet seine Waren an (gewöhnliche Gegenstände bis zur aktuellen Stufe der Gruppe) und kauft Gegenstände. Seine Hauptleistung ist die Beschaffung gewünschter Gegenstände bei zukünftigen Besuchen. Shinzo ist viermal im Monat zu Besuch, oft vor oder nach Level-ups oder großen Expeditionen, und bleibt 24 Stunden. Er ist freundlich, hilfsbereit und rätselhaft.
+- **Ziel zum Abschluss**: Shinzo treffen und seine Dienste nutzen.
+- **Belohnung**: Keine direkte Belohnung, da Shinzo ein wiederkehrender Händler ist.
+
+### The Mists (Die Gedankengebäude-Grenze)
+- **Kapitel**: 3
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Hinterland um Willowshore
+- **Beschreibung & Geheimnisse**: Beim Versuch, Karahai zu erreichen, stoßen die PCs auf eine seltsame, übernatürlich dichte Nebelgrenze. Jeder Versuch, diese Grenze zu überqueren, führt dazu, dass die PCs desorientiert an ihren Ausgangspunkt zurückkehren. Die elders bitten die PCs, das Ausmaß dieses "Fluches" zu bestimmen. Das Erkunden der Grenze ist mühsam und gefährlich. Die PCs sollten zu den elders zurückkehren, um ihre Entdeckungen zu melden.
+- **Ziel zum Abschluss**: Die Grenze des Gedankenreichs entdecken und sich dessen Ausmaß bewusst werden.
+- **Belohnung**: Keine direkte Belohnung hier.
+
+### Missing Boats
+- **Kapitel**: 3
+- **Auftraggeber**: Rajul Samudra (Willowshore-Dock, W23)
+- **Ort/Region**: Kürbissee (D2)
+- **Beschreibung & Geheimnisse**: Rajul Samudra berichtet, dass Kappas zwei Boote vom Willowshore-Dock gestohlen haben und den Fluss hinunter zum Kürbissee (D2) geflohen sind. Die PCs sollen die Boote zurückholen. Die Kappas spielen mit den Booten. Ein Kappa-Ältester schlägt einen "Sumo-Ringerkampf auf Probe" vor (3 von 5 Matches gewinnen, DC 17 Athletik oder DC 17 Täuschung). Wenn die PCs die Kappas in Kapitel 2 friedlich behandelt haben, müssen sie nur 1 von 5 Kämpfen gewinnen. Scheitern oder Gewalt führt dazu, dass die Kappas fliehen, aber die Boote später wieder stehlen.
+- **Ziel zum Abschluss**: Die gestohlenen Boote von den Kappas zurückholen.
+- **Belohnung**: Wenn die SC genügend Matches gewinnen, lernen die Kappas ihre Lektion und werden keine Boote mehr stehlen. Gewährt den SC 40 EP und 1 Rufpunkt bei Northridge.
+
+### Fixing the Ranch
+- **Kapitel**: 3
+- **Auftraggeber**: Kum Soon-chong (Willowshore-Ställe, W2)
+- **Ort/Region**: Willowshore-Ställe (W2)
+- **Beschreibung & Geheimnisse**: Kum Soon-chong bittet um Hilfe bei der Reparatur der Willowshore-Ställe, die während der Monsterinvasion schwer beschädigt wurden. Jeder PC kann täglich 8 Stunden damit verbringen, entweder entlaufenes Vieh in der Wildnis aufzuspüren (DC 15 Überleben) oder die Zäune der Ranch zu reparieren (DC 15 Handwerk). Diese Checks bringen Siegpunkte.
+- **Ziel zum Abschluss**: 10 Siegpunkte sammeln, um die Ställe vollständig zu reparieren und wieder in Betrieb zu nehmen.
+- **Belohnung**: Sobald die SC 10 Siegpunkte erreicht haben, werden die Dienste der Willowshore-Ställe wieder verfügbar; die SC erhalten 10 EP und 1 Rufpunkt bei Southbank.
+
+### Moving Desna’s Shrine
+- **Kapitel**: 3
+- **Auftraggeber**: Choe Chung-hu (Mühlenhäuser, W8)
+- **Ort/Region**: Verlassene Anwesen (W26) zum Mühlenhäuser (W8)
+- **Beschreibung & Geheimnisse**: Choe Chung-hu bittet die PCs, einen neuen Standort für den Desna-Schrein zu finden, der derzeit in den Verlassenen Anwesen (W26) verfällt. Ein Shikigami-Kami namens Kohoshi bewacht den Schrein und muss mit einem DC 19 Diplomatie-Check überzeugt werden. Die PCs müssen entweder DC 15 Athletik-Checks machen, um Teile des Schreins physisch zu bewegen, oder DC 16 Religion-Checks, um seine Komponenten intakt zu halten. Diese Checks dauern jeweils 4 Stunden und sammeln Siegpunkte. Ein Verehrer Desnas erhält einen +2 Umstandsbonus.
+- **Ziel zum Abschluss**: 5 Siegpunkte sammeln, um den Schrein erfolgreich umzusiedeln.
+- **Belohnung**: Sobald die SC 5 Siegpunkte erreicht haben, wird der Schrein zu den Mühlenhäusern verlegt, wo Chung-hu sich um ihn kümmern wird; die SC erhalten 20 EP und 1 Rufpunkt bei Southbank.
+
+### Investigate the Old Expansion
+- **Kapitel**: 3
+- **Auftraggeber**: Matsuki Shou (Matsuki Anwesen, W6)
+- **Ort/Region**: Alte Dorferweiterung (D8)
+- **Beschreibung & Geheimnisse**: Old Matsuki ist besorgt über die Nahrungsmittelversorgung im kommenden Winter. Er bittet die PCs, eine verlassene Dorferweiterung im Norden (D8) zu erkunden, um festzustellen, ob sie für den Anbau von Notfallkulturen genutzt werden kann. Das Dorf liegt gerade noch innerhalb der Nebelgrenze des Gedankenreichs. Die PCs müssen 4 Stunden verbringen und DC 16 Natur- oder Bauernhof-Wissen-Checks oder DC 18 Gesellschafts-Checks machen, um die Felder auf ihre Eignung zu prüfen und Anbaumethoden zu planen. Diese Checks sammeln Siegpunkte.
+- **Ziel zum Abschluss**: 8 Siegpunkte sammeln, um den Standort als zusätzliche landwirtschaftliche Fläche für Willowshore zu sichern.
+- **Belohnung**: Das Erreichen von 8 Siegpunkten reicht aus, um den Standort als zusätzliche landwirtschaftliche Fläche für Willowshore zu sichern. Dies wird im nächsten Abenteuer Auswirkungen haben. Gewährt den SC 20 EP und 1 Rufpunkt bei Southbank.
+
+### Smith Troubles
+- **Kapitel**: 3 (Trigger: Der zweite Monat des Abenteuers beginnt)
+- **Auftraggeber**: Yong Wu-Xiu (Ewige Glutschmiede, W1)
+- **Ort/Region**: Ewige Glutschmiede (W1) und Willowshore-Kaserne (W15)
+- **Beschreibung & Geheimnisse**: Imperiale Wachen, verbündet mit Northridge, drängen die Ewige Glutschmiede (W1), kostenlos Waffen und Rüstungen für die Wachen herzustellen, da Willowshore möglicherweise von der Außenwelt abgeschnitten ist. Yong Wu-Xiu bittet die PCs, mit Zheng Peng in der Willowshore-Kaserne (W15) zu sprechen, oder sie davon zu überzeugen, dass die Unterstützung der Wachen eine gute Idee ist. Die PCs müssen 2-stündige Diskussionen führen, um Siegpunkte zu sammeln. DC 21 Einschüchtern für Wu-Xiu, DC 18 Diplomatie für Zheng Peng.
+- **Ziel zum Abschluss**: 6 Siegpunkte sammeln, um eine der Parteien zu überzeugen, der Lösung der PCs zuzustimmen.
+- **Belohnung**: Das Erreichen von 6 Siegpunkten reicht aus, um den NPC davon zu überzeugen, der von den SC bevorzugten Lösung zuzustimmen. Dies bringt ihnen 20 EP und 1 Rufpunkt entweder bei Southbank (wenn sie sich auf die Seite von Yong Wu-Xiu stellen) oder bei Northridge (wenn sie sich auf die Seite von Zheng Peng stellen).
+
+### Collecting Peachwood
+- **Kapitel**: 3 (Trigger: Der zweite Monat des Abenteuers beginnt)
+- **Auftraggeber**: Yun Mong-un (Holzschnitzergilde, W17)
+- **Ort/Region**: Drei Pfirsichholz-Haine (P auf der Karte)
+- **Beschreibung & Geheimnisse**: Da Willowshore autarker werden muss, bittet Yun Mong-un die PCs, Pfirsichholz aus den Wildnis-Hainen zu sammeln (P auf der Karte). Mit frischem Pfirsichholz kann sie Papier für seltene Fulus herstellen, die vor übernatürlichen Einflüssen schützen. Nur die hochwertigsten, flexibelsten Äste sind geeignet. PCs müssen DC 18 Natur- oder Überlebenschecks machen, um Einkommen zu erzielen (Stufe 4 Aufgabe). Bei kritischem Misserfolg ist der Hain für den Rest der Kampagne nutzlos.
+- **Ziel zum Abschluss**: Pfirsichholz im Wert von 10 GP sammeln und liefern.
+- **Belohnung**: Die SC können weiterhin Pfirsichholz ernten, solange die Haine bestehen. Das erste Mal, dass sie es schaffen, insgesamt 10 GP an Vorräten zu ernten und abzugeben, erhalten sie 20 EP und 1 Rufpunkt bei Northridge. Als Dank für diese Unterstützung bietet Yun Mong-un an, den SC die Formel für jedes der auf Seite 83 vorgestellten seltenen Fulus beizubringen und gibt jedem SC außerdem Fulus im Wert von 8 GP als Dankeschön. Leider stört ihre Ernte der Pfirsichholzbäume genügend traditionsbewusste Einheimische, sodass die SC zu diesem Zeitpunkt auch 1 Rufpunkt bei Southbank verlieren.
+- **Belohnung (Items)**: Die Formel für ein beliebiges seltenes Fulu von S. 83, und Fulus im Wert von 8 GP pro SC.
+
+### The Teahouse Owner’s Will
+- **Kapitel**: 3 (Trigger: Die PCs entdecken das Testament in C1, oder der dritte Sommermonat beginnt)
+- **Auftraggeber**: Luo Xi Yang (Luo & Laws, W16)
+- **Ort/Region**: Augen des Fumeiyoshi (D9)
+- **Beschreibung & Geheimnisse**: Luo Xi Yang (W16) legt den PCs das Testament der exzentrischen Aristokratin Qing Mai-Lai vor. Da keine Nachkommen überlebt haben, geht das Eigentum am Cerulean Teahouse an die erste Person/Gruppe über, die die "zwei Perlen, die ich in Fumeiyoshis Augen geworfen habe", birgt. DC 14 Willowshore-Wissen oder DC 16 Gesellschaftscheck identifiziert die Teiche "Augen des Fumeiyoshi" (D9a, D9b). Um eine Perle zu bergen, muss ein PC einen DC 16 Athletik-Check bestehen, dann 4 Stunden Suchen, einen DC 10 Athletik-Check (unter Wasser schwimmen) und einen DC 15 Wahrnehmungscheck (der DC sinkt um 2 pro Versuch). Im Rechten Auge (D9b) müssen zwei Jagdspinnen (Kreatur 1) besiegt werden.
+- **Ziel zum Abschluss**: Beide Perlen aus den "Augen des Fumeiyoshi" bergen.
+- **Belohnung**: Jede der Perlen ist 10 GP wert. Wenn die SC beide bergen, sind sie berechtigt, das Cerulean Teahouse als Geschäft zu beanspruchen; Regeln für die Wiederherstellung und den Betrieb des Teehauses werden im nächsten Season of Ghosts-Abenteuer, „Let the Leaves Fall“, erscheinen. Gewährt den SC 40 EP für die Beanspruchung des Eigentums am Cerulean Teahouse.
+- **Belohnung (Items)**: Zwei Perlen (je 10 GP).
+
+### Tea Farm Infestation
+- **Kapitel**: 3 (Trigger: Eine Woche nach Abschluss von "The Teahouse Owner’s Will")
+- **Auftraggeber**: Mountain Summit Grass (Leshy-Salon, W27)
+- **Ort/Region**: Leshy-Salon (W27)
+- **Beschreibung & Geheimnisse**: Nachdem die PCs das Cerulean Teahouse übernommen haben, bittet der Leshy-Teemacher Mountain Summit Grass um Hilfe bei der Bekämpfung einer hartnäckigen Pflanzenkrankheit im Leshy-Salon. Die PCs müssen die Krankheit identifizieren und behandeln, was sorgfältige Untersuchung, Beschneiden, Jäten und das Austauschen von verseuchter Erde erfordert. Sie sammeln Siegpunkte, indem sie 8 Stunden verbringen und DC 18 Natur-Checks oder DC 16 Bauernhof-Wissen-Checks machen.
+- **Ziel zum Abschluss**: 10 Siegpunkte sammeln, um die Pflanzenkrankheit vollständig zu beseitigen.
+- **Belohnung**: Sobald die SC 10 Siegpunkte erreicht haben, haben sie die Plage aus dem Leshy-Salon entfernt. Gewährt ihnen 20 EP. Darüber hinaus wird die im Leshy-Salon verdiente Dankbarkeit der Gruppe beim Teehandel im Cerulean Teahouse helfen, wie im nächsten Abenteuer beschrieben.
+
+### The Missing Governor (How It Feels to Lose It All)
+- **Kapitel**: 3
+- **Auftraggeber**: Granny Hu und Old Matsuki
+- **Ort/Region**: Kanarienhof (D4)
+- **Beschreibung & Geheimnisse**: Nach dem Verschwinden von Gouverneur Heh und seinem Anwesen vermuten die elders eine übernatürliche Ursache. Sie erinnern sich an eine Sängerin namens Fan Hongrui, die drei Jahre zuvor vom Gouverneur verhaftet wurde, floh und einen Fluch ausstieß: "Alle, die Lung Wa dienen, werden bald wissen, wie es sich anfühlt, alles zu verlieren!" Dies geschah am Kanarienhof (D4), der niederbrannte. Hongruis Leiche wurde nie gefunden, die ihrer zwei Komplizen wurden dort begraben. Die PCs sollen den Ort untersuchen.
+- **Ziel zum Abschluss**: Den Kanarienhof und die dortigen Ereignisse untersuchen.
+- **Belohnung**: Keine direkte Belohnung hier.
+
+### Ghosts in the Grass
+- **Kapitel**: 3 (Teil von "The Missing Governor")
+- **Auftraggeber**: Erkundung/Event (auf dem Weg zum Kanarienhof)
+- **Ort/Region**: Hinterland, auf dem Weg zum Kanarienhof (D4)
+- **Beschreibung & Geheimnisse**: Auf dem Weg zum Kanarienhof begegnen die PCs drei Strohwichten (Thatchlings, Kreatur 0), die sich in hohem Gras verstecken und giggeln oder "hilf mir" flüstern. Diese Strohwichte sind eine Manifestation von Hongruis Zustand als rothäubiger Strohwicht. Sie greifen an und kämpfen bis zur Zerstörung. Ein erfolgreicher DC 14 Religion-Check erinnert daran, dass Strohwichte feuerempfindlich sind und dass ein rothäubiger Strohwicht (Hongrui) in der Region ist, der sie erschaffen kann.
+- **Ziel zum Abschluss**: Die Strohwichte besiegen.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### Songs at Canary Inn
+- **Kapitel**: 3 (Teil von "The Missing Governor")
+- **Auftraggeber**: Erkundung/Event (am Kanarienhof D4)
+- **Ort/Region**: Kanarienhof (D4)
+- **Beschreibung & Geheimnisse**: Hongrui, nun ein rothäubiger Strohwicht (Kreatur 2), singt, getarnt als Kind, für zwei ihrer Strohwicht-Begleiter (Kreatur 0) in der Ruine des Kanarienhofs. Ein erfolgreicher DC 22 Wahrnehmungscheck durchschaut ihre Illusion. Sie ist neugierig auf die PCs. Ein PC kann für sie auftreten (DC 17 Performance). Kritischer Erfolg: Sie beruhigt sich, ihre Illusion schwindet, sie beantwortet eine Frage und verblasst. Erfolg: Sie beruhigt sich, beantwortet eine Frage, PCs müssen gehen. Misserfolg: Sie greift an. Hongrui kämpft mit telekinetischem Projektil und Howl of Vengeful Fury, wenn ihre Begleiter besiegt werden. Sie kämpft bis zur Zerstörung, verfolgt aber fliehende PCs nicht weiter als eine halbe Meile.
+- **Ziel zum Abschluss**: Hongrui besiegen oder zur Ruhe bringen und Informationen über den Gouverneur und den Fluch erhalten.
+- **Belohnung**: Wenn die SC den drei Strohwichten Ruhe verschaffen, erhalten sie 40 EP zusätzlich zu dem, was sie für deren Besiegung im Kampf erhalten hätten. Strohwichte werden im Gedankenreich Willowshore nicht mehr angetroffen, und jede Zufallsbegegnung, die zu einem Strohwicht führt, wird als keine Begegnung behandelt. Zusätzlich fühlt sich die Region insgesamt etwas weniger heimgesucht. Dies verbessert die Moral der Dorfbewohner, und die SC erhalten 1 Rufpunkt bei Northridge und Southbank.
+- **Belohnung (Items)**: Hongruis Dankbarkeit (ein magischer roter Umhang, S. 82), wenn mit ihrer Dankbarkeit genommen. Oder Stein des Gewichts (Fluch, S. 92, G.G.), wenn ohne Dankbarkeit genommen, kann durch eine respektvolle Bestattung der Skelette der Komplizen aufgehoben werden.
+
+### Visiting Great Willow
+- **Kapitel**: 3 (Teil von "The Mists")
+- **Auftraggeber**: Granny Hu und Old Matsuki
+- **Ort/Region**: Große Weide (W29)
+- **Beschreibung & Geheimnisse**: Die PCs sollen die Große Weide (W29), einen Kami, der in einem riesigen Weidenbaum auf einem Hügel über der Stadt wohnt, um Rat zu suchen. Der Weg dorthin ist schwieriges Gelände. Die elders schlagen ein Opfer vor: Wein/Sake (DC 16 Natur/14 Willowshore-Wissen) oder ein handgefertigter Shimenawa (DC 16 Handwerk, 1 Stunde, 3 GP). An den Wurzeln des Baumes ist ein Pilzbefall sichtbar. Die Große Weide (Kodama, Kreatur 5) ist anfangs unfreundlich. DC 24 Diplomatie (oder DC 14 mit Opfer) zum Eindruck machen. Shimenawa verbessert den Erfolg um einen Grad. Bei Feindseligkeit greift sie an, zieht sich bei <30 TP zurück und verfolgt nicht über die Lichtung hinaus. Sie kann erst freundlich werden, wenn der Pilzbefall im Süden (D7) gelöst ist.
+- **Ziel zum Abschluss**: Die Große Weide treffen, sie freundlich stimmen und ihre Hilfe erhalten.
+- **Belohnung**: Wenn die SC die Große Weide freundlich stimmen, gibt das dankbare Kodama ihnen beim Abschied ein Geschenk – ein geringeres Kletterseil (Advanced Player’s Guide 262) aus übernatürlich geschmeidigen, geflochtenen Weidenzweigen.
+
+### Talking with Great Willow (Tipps gegen den Pilzbefall)
+- **Kapitel**: 3 (Teil von "The Mists")
+- **Auftraggeber**: Große Weide (W29)
+- **Ort/Region**: Große Weide (W29)
+- **Beschreibung & Geheimnisse**: Sobald die Große Weide kooperiert, spricht sie in einer kindlichen, methodischen Stimme. Ihr Geist ist durch die ständige Wiederholung des Jahres zersplittert. Sie hat den Pilzbefall von einem Besuch bei einem Freund im Süden (D7) mitgebracht. Sie bittet die PCs, diesen Befall zuerst zu lösen, dann wird sie mehr über die Nebelgrenze verraten. Sie weiß nicht, dass sie selbst im Gedankenreich gefangen ist.
+- **Ziel zum Abschluss**: Der Großen Weide hilfreiche Techniken gegen den Pilzbefall vermitteln.
+- **Belohnung**: Wenn ein SC bei einem DC 18 Natur-Check zum Erinnern erfolgreich ist, kann er der Großen Weide hilfreiche Techniken zur Bekämpfung des Pilzbefalls mitteilen. Ohne diese Hilfe entfernt die Große Weide den Befall zwar trotzdem bis zur Rückkehr der SC, ist aber dankbar für den Vorschlag – gewährt der Gruppe 20 EP für die Hilfe.
+
+### Into the Infestation
+- **Kapitel**: 3 (Teil von "The Mists")
+- **Auftraggeber**: Große Weide (W29)
+- **Ort/Region**: Befallener Weidenhain (D7)
+- **Beschreibung & Geheimnisse**: Der Hain ist von grauem und blassgelbem Pilz überwachsen. Ein Myceloid namens Xungu (Kreatur 4), eine direkte physische Manifestation von Kugaptees Einfluss, patrouilliert dort. Xungu spricht Gemeinsprache und versucht, die PCs durch eine lügnerische Geschichte über seine Vertreibung zu täuschen und einen PC zu einem "gemeinsamen Mahl" über Nacht zu überreden, um ihn dann zu verspeisen. Wird er entlarvt oder direkt konfrontiert, greift er an, um die ganze Gruppe zu fangen und zu essen (bevorzugt pockiges Fleisch). Er kämpft bis zum Tod, verfolgt aber nicht weit.
+- **Ziel zum Abschluss**: Xungu besiegen und den Pilzbefall im Weidenhain beseitigen.
+- **Belohnung**: Mit Xungus Tod beginnt die Pilzinfektion im Hain sofort zurückzugehen, wobei Pilze und Schimmel schrumpfen, schmelzen und verdunsten. Bereits nach einer Stunde ist der Hain vollständig wiederhergestellt. Zu diesem Zeitpunkt behandelt ein SC, der an Purpurpocken von Xungu leidet, alle Rettungswürfe gegen die Krankheit als automatische Erfolge.
+
+### Rescuing Ugly Cute
+- **Kapitel**: 3
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Schlucht der Reißzähne und Zähne (D10)
+- **Beschreibung & Geheimnisse**: Ugly Cute (Steinspinne, Kreatur 5), Willowshores Wächtergeist, ist in die Schlucht der Reißzähne und Zähne (D10) zurückgekehrt, um sich von einem Kampf zu erholen. Sie wurde von Noppera-Bos verwundet, die die PCs entführt hatten. Ugly Cute ist nun beschädigt (5 TP übrig) und wird von zwei Kieselsteinschwärmen (Cobbleswarms, Kreatur 2), Manifestationen von Kugaptees Einfluss, attackiert. Die PCs treffen Ugly Cute, wie sie von den Schwärmen angegriffen wird. Ugly Cute ist dankbar für die Hilfe und will sich hier erholen, bevor sie zu ihrem Posten zurückkehrt.
+- **Ziel zum Abschluss**: Ugly Cute vor den Kieselsteinschwärmen retten und mit ihr sprechen.
+- **Belohnung**: Für die Rettung von Ugly Cute erhalten die SC EP, als hätten sie die Steinspinne im Kampf besiegt. Zusätzlich verdienen sie 2 Rufpunkte bei beiden Fraktionen, sobald Ugly Cute ihren Posten am Spider Gate wieder aufnimmt.
+- **Belohnung (Items)**: Ugly Cutes Geschenk (S. 83), ein Stück ihres steinernen Panzers, das den SC Werkzeuge zum Schutz Willowshores liefern kann.
+
+### Speaking with Ugly Cute
+- **Kapitel**: 3 (Teil von "Rescuing Ugly Cute")
+- **Auftraggeber**: Ugly Cute (Gerettete)
+- **Ort/Region**: Schlucht der Reißzähne und Zähne (D10)
+- **Beschreibung & Geheimnisse**: Nach der Rettung ist Ugly Cute dankbar und gesprächig. Sie erzählt, dass sie die PCs von gesichtslosen Monstern gerettet hat, die sie dann verfolgte, aber dabei verwundet und desorientiert wurde, sodass sie sich hierher zurückziehen musste. Sie hatte Visionen von einem verlassenen Willowshore. Sie bestätigt, dass die Nebelgrenze ein "Fluch" ist, der von den gesichtslosen Monstern verursacht wurde, die ein altes Holzfällerlager im Westen (D11) besetzt halten. Weiter westlich spürt sie eine stärkere Quelle des Bösen, kann aber selbst nicht über 10 Meilen von Willowshore hinaus.
+- **Ziel zum Abschluss**: Von Ugly Cute Informationen über die Ursache des Fluches und die gesichtslosen Monster erhalten.
+- **Belohnung**: Keine direkte Belohnung hier.
+
+### Who Leads Willowshore?
+- **Kapitel**: 3 (Trigger: Der dritte Sommermonat beginnt)
+- **Auftraggeber**: Granny Hu und Old Matsuki
+- **Ort/Region**: Lady der Seelen (W10)
+- **Beschreibung & Geheimnisse**: Matsuki Shou fordert Granny Hu öffentlich heraus, um die Führung Willowshores zu klären, da der Gouverneur verschwunden ist und der Fluch die Stadt isoliert hat. Ein traditionelles Duell der Champions wird in sieben Tagen angesetzt. PCs werden gebeten, die Situation zu deeskalieren, eine Fraktion zu unterstützen oder sich als dritte Partei anzubieten. Um einen der Ältesten zum Rücktritt zu bewegen und eine friedliche Lösung zu erzielen, müssen die PCs 7 Einfluss-Punkte bei diesem Ältesten sammeln (siehe deren NPC-Einträge).
+- **Ziel zum Abschluss**: Eine friedliche Lösung für die Führungsfrage von Willowshore herbeiführen, indem man einen der Ältesten zum Rücktritt bewegt.
+- **Belohnung**: Wenn die SC einen der Ältesten überzeugen, dem anderen nachzugeben und eine friedliche Lösung zu erzielen, erhalten sie 80 EP und 2 Rufpunkte bei der Fraktion, deren Ältester zum Anführer der Stadt wird.
+
+### The Lumber Camp (Advance Knowledge)
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Willowshore
+- **Beschreibung & Geheimnisse**: Das alte Holzfällerlager (D11) ist von gesichtslosen Monstern, den Noppera-Bos (aufgeteilt in Prayers und Rovers), besetzt. Um mehr über das Lager zu erfahren, können die PCs einen DC 15 Willowshore-Wissen oder DC 18 Gesellschaftscheck machen (oder DC 16 nach 2 Stunden Informationsbeschaffung). Ein kritischer Erfolg offenbart eine geheime Tür in der Palisade (E6). Die Noppera-Bos haben Willowshore Ställe überfallen und weitere Opfer entführt, was die PCs zum Handeln anregen sollte.
+- **Ziel zum Abschluss**: Informationen über das Holzfällerlager und seine Bewohner erhalten.
+- **Belohnung**: Keine direkte Belohnung hier.
+
+### The Merchant Returns (Shinzo's Geschenk)
+- **Kapitel**: 4
+- **Auftraggeber**: Shinzo (Shinigami-Händler)
+- **Ort/Region**: Unterwegs zum Holzfällerlager (D11)
+- **Beschreibung & Geheimnisse**: Kurz bevor die PCs zum Holzfällerlager aufbrechen, kehrt Shinzo zurück. Er warnt sie vor den "Banditen" im Westen und fragt sie, ob sie mit Wut oder List vorgehen wollen. Ihre Antwort bestimmt, welches Geschenk er ihnen macht.
+- **Ziel zum Abschluss**: Shinzo treffen und auf seine Frage antworten.
+- **Belohnung**: Wenn die Antwort der SC auf Rache oder Gerechtigkeit abzielt, schenkt er ihnen einen Umhang der Gerechtigkeit (S. 81) und warnt sie davor, von ihrem Weg abzuweichen. Wenn die Antwort der SC auf Subtilität abzielt, schenkt Shinzo ihnen eine Noppera-Bo-Haube (S. 82) und lobt sie für ihren Mut. Welchen Gegenstand er nicht verschenkt, bleibt zum Kauf verfügbar, zusammen mit allen anderen Gegenständen, die er anbieten könnte.
+- **Belohnung (Items)**: Umhang der Gerechtigkeit oder Noppera-Bo-Haube.
+
+### E1. Entrance
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Eingang (E1)
+- **Beschreibung & Geheimnisse**: Die schweren Doppeltüren des Lagers sind von innen mit einem Baumstamm verriegelt (drei Interagieren-Aktionen zum Entfernen, oder DC 30 Athletik zum Aufbrechen). Zwei Noppera-Bo-Trickster (Kreatur 1), verkleidet als Menschen, streiten sich. Der Wachhund Jerky (Kreatur -1) ist ebenfalls anwesend. Ein DC 14 Natur-Check kann Jerky davon überzeugen, dass seine "Meister" Monster sind, wodurch er gleichgültig oder sogar feindselig gegenüber den Noppera-Bos wird. Die Trickster halten die PCs für andere Noppera-Bos. Fragen nach Entführungen führen zum Kampf. Die Trickster fliehen, wenn einer unter 5 TP fällt.
+- **Ziel zum Abschluss**: Den Eingang zum Holzfällerlager sichern.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### E3. Ox Stables
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Ochsenställe (E3)
+- **Beschreibung & Geheimnisse**: Die Ställe sind leer, aber Spuren zeigen, dass hier kürzlich Wild und Ochsen gefangen gehalten wurden, die jetzt im Lager gegessen werden.
+- **Ziel zum Abschluss**: Die Ställe durchsuchen.
+- **Belohnung**: Beim Durchsuchen der Ställe findet man automatisch eine Flasche geringeres Brauer-Gebräu in einer der Heukisten.
+- **Belohnung (Items)**: Eine Flasche geringeres Brauer-Gebräu.
+
+### E4. Guard Dormitory
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Wachendormitorium (E4)
+- **Beschreibung & Geheimnisse**: Dieses Dormitorium ist mit Blutspritzern und Waffenmarkierungen bedeckt. Vier Noppera-Bo-Grunts (Kreatur 0) sind hier, drei davon üben sich im Armbrustschießen, während der vierte als Strafe aufräumen muss. Sie sind Teil der Rovers-Fraktion und halten die PCs fälschlicherweise für andere Noppera-Bos. Bei Entdeckung der PCs als Eindringlinge kämpfen sie bis zum Tod.
+- **Ziel zum Abschluss**: Die Noppera-Bo-Grunts im Dormitorium besiegen.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+- **Belohnung (Items)**: Eine Phiole mit Öl der Potenz auf einem Regal.
+
+### E5. Loading Island
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Verladeinsel (E5)
+- **Beschreibung & Geheimnisse**: Auf dieser Insel, die über eine marode Holzbrücke erreichbar ist, quälen vier Noppera-Bo-Grunts (Kreatur 0) einen verängstigten, verletzten Kappa (Kreatur 2). Die Grunts sind Rovers-Verbündete und spielen "heroische Abenteurer". Die PCs können die Grunts durch Lügen oder Überzeugen beeinflussen. Der Kappa bittet um Gnade und könnte die PCs von früheren Begegnungen wiedererkennen. Er kennt die Namen Zoudou (Fanatiker) und Mugirou (Kriegstreiber).
+- **Ziel zum Abschluss**: Den Kappa retten und die Noppera-Bo-Grunts besiegen/vertreiben.
+- **Belohnung**: Ein SC, der das schlammige Wasser nahe dem südlichen Ende der westlichen Schwemmholzstämme durchsucht und bei einem DC 20 Wahrnehmungscheck erfolgreich ist, entdeckt einen von einem Holzfäller vergessenen Schatz – eine +1 Streitaxt. Wenn die SC den Kappa gerettet haben, weist die Kreatur auf den Fundort des Schatzes hin, bevor sie aus dem Gebiet flieht.
+- **Belohnung (Items)**: Eine +1 Streitaxt.
+
+### E7. Courtyard
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Hof (E7)
+- **Beschreibung & Geheimnisse**: Ein Lagerfeuer brennt in der Mitte des Hofes. Ein kuppelförmiger Käfig aus Ästen enthält zwei Riesenfledermäuse. Sechs Noppera-Bo-Grunts (Kreatur 0), loyal zu den Rovers, kochen Rindfleischstreifen und wetten auf einen Kampf zwischen zwei Riesenfledermäusen im Käfig. Der Käfig kann durch einen DC 18 Athletik-Check aufgebrochen oder beschädigt werden (AC 12, Härte 3, 12 TP). Bei Zerstörung fliehen die Tiere und greifen die Noppera-Bos an. Die Grunts fliehen nach E16, wenn zwei von ihnen besiegt sind.
+- **Ziel zum Abschluss**: Die gefangenen Tiere befreien und die Noppera-Bo-Grunts besiegen/vertreiben.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### E8. Kitchen
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Küche (E8)
+- **Beschreibung & Geheimnisse**: Die Küche ist dunkel und voller zerbrochener Töpfe. Eine dünne Schicht Spinnweben bedeckt die Oberflächen und einige Bündel, die wie Leichen aussehen. Drei Jagdspinnen (Kreatur 1), die einst von Noppera-Bos angelockt wurden, sind nach dem Anzünden der Ewigen Laterne zu normalen Tieren geworden, blieben aber hier. Sie sind müde ihrer Gefangenschaft und greifen jeden an, der den Raum betritt, kämpfend bis zum Tod.
+- **Ziel zum Abschluss**: Die Jagdspinnen besiegen.
+- **Belohnung**: Eine der Leichen auf dem Boden gehört einem Noppera-Bo, der starb, bevor er den mittelschweren Donnerstein, den er noch in der Hand hielt, benutzen konnte.
+- **Belohnung (Items)**: Ein mittelschwerer Donnerstein.
+
+### E10. Manager’s Dormitory (Befreiung von Kum Soon-chong)
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Manager-Wohnheim (E10)
+- **Beschreibung & Geheimnisse**: Dieses gut eingerichtete Zimmer dient als Gefängnis für besondere Opfer. Kum Soon-chong (menschlicher Farmer, Stufe 3), Besitzer der Willowshore-Ställe, ist hier gefesselt, während sein Sohn Meng-sung bereits weggebracht wurde. Zwei Noppera-Bo-Okkultisten (Kreatur 2), Verbündete der Prayers, bewachen ihn. Sie sind nicht leicht zu täuschen und greifen bei Sichtkontakt an. Kum Soon-chong fleht um Rettung seines Sohnes, der zum Ritualplatz gebracht wurde, da er eine "alte Seele" besitzt, die für "Großer Kugaptee" geopfert werden soll. Soon-chong ist auf 2 TP und unbewaffnet.
+- **Ziel zum Abschluss**: Kum Soon-chong befreien und Informationen über Meng-sung und Kugaptee erhalten.
+- **Belohnung**: Wenn die SC Soon-chong retten, erhalten sie 40 EP sowie 1 Rufpunkt bei beiden Fraktionen, sobald er nach Hause zurückkehrt. Wenn sie ihn absichtlich verletzen oder für seinen Tod verantwortlich sind, verlieren sie 5 Rufpunkte bei beiden Fraktionen.
+
+### E11. Camp Office
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Büro (E11)
+- **Beschreibung & Geheimnisse**: Das Büro ist ordentlich, aber Dokumente liegen verstreut herum. Eine massive Holztür mit Eisenbändern in der Nordwand ist verschlossen (3x DC 20 Diebeskunst oder DC 23 Athletik zum Aufbrechen). Hazard: Drei Beschwörungsrunen (Gefahrenstufe 1) lösen sich aus, sobald jemand den Raum betritt, und beschwören drei Elite-Luftgeister (Kreatur 1).
+- **Ziel zum Abschluss**: Das Büro erkunden, die Beschwörungsrunen entschärfen/besiegen.
+- **Belohnung**: Die im Raum verstreuten Dokumente zeigen, dass im Holzfällerlager in den letzten Monaten aufgrund des Zusammenbruchs von Lung Wa Zwietracht und Desertation herrschten, was letztendlich zur Aufgabe des Standorts führte. Eine Durchsuchung des Büros fördert 15 GP und eine Flasche Öl der Reparatur zutage.
+- **Belohnung (Items)**: 15 GP, eine Flasche Öl der Reparatur.
+
+### E12. Treasury
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Schatzkammer (E12)
+- **Beschreibung & Geheimnisse**: Dieser große Raum ist mit leeren Regalen und Truhen gefüllt, offensichtlich geplündert. Eine 10-minütige Suche findet automatisch 24 KP und 3 SP hinter Regalen. Ein erfolgreicher DC 18 Wahrnehmungscheck entdeckt eine versteckte Falltür zwischen zwei nordwestlichen Regalen, hinter der sich ein Versteck eines korrupten Beamten befindet.
+- **Ziel zum Abschluss**: Die Schatzkammer durchsuchen und das Versteck finden.
+- **Belohnung**: Innerhalb der Falltür befindet sich ein Vorrat an Wertsachen, den ein korrupter Beamter gelagert hatte, der aber nie die Gelegenheit hatte, seine veruntreuten Gelder zu entwenden. Der Vorrat besteht aus einem Lederbeutel, der einen Unsichtbarkeitstrank und einen Silberbarren im Wert von 100 GP enthält.
+- **Belohnung (Items)**: Ein Unsichtbarkeitstrank, ein Silberbarren (100 GP).
+
+### E13. Guest House
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Gästehaus (E13)
+- **Beschreibung & Geheimnisse**: Dieses relativ neue Gebäude ist das einzige im Lager, das einem normalen Haus ähnelt. Wenn die Abacus Sisters (Jinkins Midori und Murasaki, Kreatur 1) aus Kapitel 1 überlebt haben, sind sie hier gefangen (aber nicht gefesselt). Sie flehen um Befreiung und teilen Informationen über das "Paradies" jenseits der Mauer der Geister mit. Sie fürchten den Namen "Kugaptee".
+- **Ziel zum Abschluss**: Die Abacus Sisters befreien und Informationen erhalten.
+- **Belohnung**: Wenn die SC den Abacus Sisters zur Flucht verhelfen, erhalten sie EP, als hätten sie sie im Kampf besiegt.
+
+### E14. Worker’s Dormitory
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Arbeiter-Wohnheim (E14)
+- **Beschreibung & Geheimnisse**: Ein erhöhter Boden nimmt den Großteil dieses Raumes ein. Dutzende blutroter Kerzen in Form verschiedener Ahnentafeln brennen hier rauchlos. In der Mitte steht eine missgestaltete Effigie aus Wurzelholz, die schimmert und ihre Form verändert (Manifestation von Kugaptee). Zwei Noppera-Bo-Okkultisten (Kreatur 2), Verbündete der Prayers, beten das Effigie an. Sie sind gleichgültig, solange sie nicht angegriffen werden, und beantworten Fragen geduldig. Sie gehören der Prayers-Fraktion an und nennen sich die "Zähne von Kugaptee". Sie bieten einen Handel an: Mugirou besiegen, dann eskortieren sie die PCs zu Zoudou, um die Opfer zu verschonen. Bei Ablehnung greifen sie an und kämpfen bis zum Tod.
+- **Ziel zum Abschluss**: Informationen sammeln, einen Deal mit den Okkultisten aushandeln oder sie besiegen.
+- **Belohnung**: Wenn die SC den Deal zur Besiegung Mugirous abschließen, erhalten sie von den Noppera-Bo-Okkultisten einen Anhänger des Okkulten, bevor sie zum Ritualplatz eskortiert werden. Wenn die SC stattdessen die Okkultisten besiegen, können sie denselben Gegenstand erbeuten, der an einem der "Arme" des Kugaptee-Effigies hängt.
+- **Belohnung (Items)**: Ein Anhänger des Okkulten.
+
+### E16. Mugirou’s Throne
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Mugirous Thron (E16)
+- **Beschreibung & Geheimnisse**: Ein lagerhausähnliches Gebäude. Ein provisorischer Holzkäfig mit vier gefangenen Farmern (Kreatur 0) aus Willowshore-Ställen steht vor einem fünf Fuß hohen Wurzelholzthron. Mugirou (Elite Noppera-Bo-Trickster, Kreatur 2), der Anführer der Rovers, sitzt dort und brütet, während vier Noppera-Bo-Grunts (Kreatur 0) die Gefangenen verspotten. Mugirou erwartet Helden und ist bereit zu verhandeln. Er schlägt vor, Zoudou und ihre Okkultisten zu eliminieren, um die Gefangenen freizulassen. Ein erfolgreicher DC 17 Einschüchtern-Check kann ihn dazu bringen, zu versprechen, Willowshore in Ruhe zu lassen. Er kämpft nicht bis zum Tod und flieht oder ergibt sich bei unter 8 TP.
+- **Ziel zum Abschluss**: Mugirou besiegen oder einen Deal mit ihm abschließen, um die Gefangenen zu befreien.
+- **Belohnung**: Wenn die SC den Deal vereinbaren, schenkt er ihnen ein Schlüsselwerkzeug-Set (Secrets of Magic 186) als Zeichen der "Freundschaft". Wenn die SC ihn bekämpfen und besiegen, können sie diese Werkzeuge stattdessen von seiner Leiche erbeuten. Wenn die SC die vier Gefangenen erfolgreich retten, überreichen die dankbaren Farmer der Gruppe einen Handwerkervisier einen Tag nach ihrer sicheren Rückkehr nach Hause. Wenn die SC einen Deal mit Mugirou abschließen, erhalten sie Erfahrung, als hätten sie ihn und seine Grunts im Kampf besiegt, aber wenn sich in Willowshore herumspricht, dass die SC diese Monster leben ließen oder nicht vertrieben haben, verlieren sie 1 Rufpunkt bei jeder Fraktion.
+- **Belohnung (Items)**: Ein Schlüsselwerkzeug-Set, ein Handwerkervisier.
+
+### E17. Log Piles
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Holzfällerlager, Holzstapel (E17)
+- **Beschreibung & Geheimnisse**: Vier 15 Fuß hohe Holzstapel, mit schweren, rostigen Ketten gesichert, stehen hier. Ein gut ausgetretener Pfad führt weiter nach Norden.
+- **Ziel zum Abschluss**: Den Pfad zum Ritualplatz (D12) finden.
+- **Belohnung**: Keine direkte Belohnung hier.
+
+### The Ritual Site (Zoudou’s Rite)
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Ritualplatz (D12)
+- **Beschreibung & Geheimnisse**: Eine Lichtung mit einem seelenlosen Wald. Im Nordwesten ragt eine brodelnde Nebelwand (Wall of Ghosts) 50 Fuß hoch auf. Ein dreistufiger Steinaltar ist zu einem Kugaptee-Schrein korrumpiert. Zoudou die Eifrige (Noppera-Bo, Kreatur 3), die Anführerin der Prayers, führt ein Weihe-Ritual durch, um Kugaptees Gunst zu erlangen. Meng-sung (menschlicher Farmer, Stufe 0) ist auf dem Altar gefesselt und geknebelt. Zwei Noppera-Bo-Okkultisten (Kreatur 2) assistieren. Zoudou und die Okkultisten haben eine -4 Umstandsstrafe auf Wahrnehmung/Initiative, da sie konzentriert sind. Zoudou ist arrogant und erwartet keine Unterbrechung. Sie bietet an, Meng-sung gegen die Selbstaufopferung eines PCs zu tauschen, was die Seele des PCs an Kugaptee bindet und die Wiederauferstehung verhindert. Wenn die PCs angreifen, kämpfen Zoudou und ein Okkultist, während der andere das Ritual fortsetzt. Sie kämpfen bis zum Tod.
+- **Ziel zum Abschluss**: Meng-sung retten, Zoudou und ihre Okkultisten besiegen.
+- **Belohnung**:
+    - Ein zerfleddertes Lederbuch (Ledger) mit Zoudous dichten Notizen und Theorien über die Natur Kugaptees, die Mauer der Geister und das "Paradies" jenseits der Mauer, geschrieben in Abyssisch und Aklo. Dies kann zum Erlernen des Weihe-Rituals verwendet werden oder enthält Hinweise zum Öffnen der Mauer der Geister im nächsten Abenteuer.
+
+### Horror from Beyond (Interrupting the Ritual)
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Ritualplatz (D12)
+- **Beschreibung & Geheimnisse**: Wenn das Ritual unterbrochen wird (z.B. durch Zoudous Tod), rollt ein Grollen von jenseits der Mauer der Geister. Ein riesiger, vage humanoider Schatten erhebt sich, und die Mauer wölbt sich. Die Körper der drei Noppera-Bos (Zoudou und die zwei Okkultisten), lebend oder tot, platzen auf. Daraus entstehen missgestaltete, untote Versionen: Kugaptees Segen (Zombie-Brutvarianten, Kreatur 2). Diese untoten Kreaturen haben lange, gebrochene Gliedmaßen und schimmige Weidenkörbe mit blutroten Schmetterlingen statt Köpfen. Sie greifen die PCs sofort an, verfolgen sie aber nicht über den Ritualplatz hinaus. Wenn ein PC sich Meng-sungs Stelle angeboten hat, greifen die Segen diesen PC nicht an.
+- **Ziel zum Abschluss**: Kugaptees Segen besiegen.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### Horror from Beyond (Arriving too Late)
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Ritualplatz (D12)
+- **Beschreibung & Geheimnisse**: Wenn Zoudou das Ritual erfolgreich abschließt, wird Meng-sung geopfert und verwandelt sich ebenfalls in einen von Kugaptees Segen. Wenn die PCs am Ritualplatz ankommen, finden sie vier dieser untoten Kugaptees Segen (Zombie-Brutvarianten, Kreatur 2, eine Schwere 3 Begegnung) am Altar kniend, die sie dann angreifen.
+- **Ziel zum Abschluss**: Die vier Kugaptees Segen besiegen.
+- **Belohnung**: Keine explizite Belohnung in EP oder Gegenständen angegeben.
+
+### Concluding the Adventure (Kapitel 4 Abschluss)
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Willowshore
+- **Beschreibung & Geheimnisse**: Die überlebenden Noppera-Bos lösen sich in den Tagen nach der Niederlage ihrer Anführer auf. Die abtrünnige Gruppe stellt keine weitere Bedrohung für Willowshore dar. Die PCs werden als Helden gefeiert, wenn sie die Entführten aus den Ställen zurückbringen. Willowshore wird selbstbewusster und passt sich der neuen Realität der Isolation an. Das effektive Level Willowshores steigt auf 5. Das Abenteuer endet mit mehr Fragen als Antworten über den Fluch und Kugaptee als Hauptclues für die Zukunft.
+- **Ziel zum Abschluss**: Die Abtrünnigen aus dem Holzfällerlager zurückbringen und das Abenteuer abschließen.
+- **Belohnung**: Wenn die SC mit den Entführten aus den Ställen nach Willowshore zurückkehren, wird die Gruppe als Helden begrüßt und erhält 3 Rufpunkte bei beiden Fraktionen. Reduzieren Sie diese Rufpunkt-Belohnung nach eigenem Ermessen, wenn die SC mit weniger überlebenden Entführten zurückkehren, insbesondere wenn die SC gleichgültig oder abfällig gegenüber verlorenen Leben durch die Monster erscheinen. Willowshores effektives Level steigt auf 5, mit Auswirkungen, die im Seitenleisten-Abschnitt "Growing the Town" auf Seite 72 detailliert beschrieben werden.
+
+Hier sind die Quests, Meilensteine und Story Awards aus dem bereitgestellten Kapitel, präzise extrahiert und formatiert:
+
+### Kampagnen-Fortschritt (Kapitel 1-4)
+- **Kapitel**: 1-4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Willowshore und Umland
+- **Beschreibung & Geheimnisse**: Dies ist der Fortschrittspfad für die Kampagne "Season of Ghosts".
+- **Ziel zum Abschluss**:
+    - Erreichen Sie Stufe 2, nachdem Sie den zweiten von drei monströsen Anführern in Willowshore besiegt haben.
+    - Erreichen Sie Stufe 3, bevor Sie Kapitel 4 beginnen.
+    - Erreichen Sie Stufe 4, wenn Sie das Abenteuer beendet haben.
+- **Belohnung**: Keine direkte Belohnung, da dies ein Fortschrittspfad ist.
+
+### THE SPIDERLESS GATE
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Östlicher Eingang von Willowshore (Bereich W30)
+- **Beschreibung & Geheimnisse**: Das Steinstatuen-Torwächter "Ugly Cute" ist verschwunden, und die Laterne am Eingang liegt erloschen. Die Laterne ist leer an Öl. Wenn die Laterne wieder angezündet wird, verschwinden die Nebel- und Blutmoneffekte nicht, aber die PCs erhalten einen Bonus auf Rettungswürfe.
+- **Ziel zum Abschluss**: Die Eingangslaterne wieder auffüllen und anzünden.
+- **Belohnung**: 20 EP für das Anzünden der Laterne.
+
+### EASTERN WATCHTOWER
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Östlicher Wachturm (östlich von Willowshore)
+- **Beschreibung & Geheimnisse**: Die Wachturmwache Hai-er Ha ist am Leben, aber verängstigt und traurig über den Verlust ihrer Kameraden. Sie ist skeptisch gegenüber Fremden, aber wenn die PCs die "acht Praktiken der Geistersaison" rezitieren oder sie beeindrucken, beruhigt sie sich. Sie gibt Hinweise zu Granny Hu und Old Matsuki und bittet darum, ihre Familie zu überprüfen.
+- **Ziel zum Abschluss**: Hai-er Ha anfreunden oder ihre Familie wiedervereinen.
+- **Belohnung**: Die PCs erhalten volle EP, als ob sie Hai-er Ha im Kampf besiegt hätten, wenn sie sich mit ihr anfreunden. Wenn sie ihr helfen, sich mit ihrer Familie wiederzuvereinigen, erhält die Gruppe 1 Reputationspunkt bei Northridge und Southbank.
+
+### RETURNING HOME
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Zuhause der PCs in Willowshore
+- **Beschreibung & Geheimnisse**: Die PCs können ihre eigenen Häuser besuchen, um nach Freunden, Familie und Sicherheit zu sehen. Jedes Haus kann eine kleinere Gefahr bergen.
+- **Ziel zum Abschluss**: Alle ihre Häuser besuchen.
+- **Belohnung**: Die PCs erhalten 10 EP, wenn sie alle ihre Häuser besuchen. (Zusätzlich können sie einige Vorräte aus ihren Häusern finden.)
+
+### Meeting Old Matsuki
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki
+- **Ort/Region**: Matsuki Anwesen (W6), Willowshore
+- **Beschreibung & Geheimnisse**: Old Matsuki bittet die PCs um Hilfe bei der Rückeroberung von Willowshore und gibt ihnen vier wichtige Aufgaben: Kontakt mit Northridge aufnehmen, Ugly Cute aufspüren (einen Jäger kontaktieren), die Monster auf der Dawnstep-Brücke besiegen (Gurglegut) und die Ewige Laterne wieder anzünden (drei Schreine besuchen).
+- **Ziel zum Abschluss**: Old Matsuki zum ersten Mal in diesem Abenteuer treffen.
+- **Belohnung**: 40 EP für das erste Treffen mit Old Matsuki in diesem Abenteuer.
+
+### Making Contact: Northridge (Crossing the Waters)
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Ceiba-Fluss, Woodraft-See, Willowshore
+- **Beschreibung & Geheimnisse**: Das Überqueren des Flusses oder Sees ist schwierig und gefährlich, solange die Dawnstep-Brücke von Monstern kontrolliert wird. Der Woodraft-See ist von einem Spuk betroffen, der versucht, Reisende ins Wasser zu ziehen.
+- **Ziel zum Abschluss**: Die Gewässer überqueren und Northridge erreichen.
+- **Belohnung**: 40 EP für das erste Erreichen von Northridge in diesem Abenteuer.
+
+### Meeting Granny Hu
+- **Kapitel**: 1
+- **Auftraggeber**: Granny Hu
+- **Ort/Region**: Handelsbüro (W21), Willowshore
+- **Beschreibung & Geheimnisse**: Granny Hu, die Anführerin von Northridge, begrüßt die PCs und stellt zusätzliche, aus ihrer Sicht dringendere Aufgaben: Dr. Damihansig Mababangloob in der Hand des Frühlings überprüfen und ihre vermissten Enkelkinder finden.
+- **Ziel zum Abschluss**: Granny Hu zum ersten Mal in diesem Abenteuer treffen.
+- **Belohnung**: 40 EP für das erste Treffen mit Granny Hu in diesem Abenteuer.
+
+### A1. THE TRAPPED HUNTER
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki (über Sumika)
+- **Ort/Region**: Kleine Farm (Süd-Willowshore)
+- **Beschreibung & Geheimnisse**: Die Jinkins Midori und Murasaki, zusammen mit ihren Tierbegleitern Noodles (Wiesel) und Sparrow (Rabe), haben die halbelfische Jägerin Sumika auf einer kleinen Farm eingekesselt. Die Jinkins spielen ein "Ratespiel" und versuchen, Sumika zu quälen. Die PCs können sie durch Kampf oder ein "Kampf der Worte" vertreiben.
+- **Ziel zum Abschluss**: Sumika befreien oder die Jinkins und ihre Tiere vertreiben.
+- **Belohnung**: Die PCs erhalten volle EP, als ob sie die Abacus Sisters im Kampf besiegt hätten, egal wie sie diese Begegnung lösen.
+
+### A2. CLASH AT THE CLINIC
+- **Kapitel**: 1
+- **Auftraggeber**: Granny Hu (über Dr. Dami)
+- **Ort/Region**: Hand des Frühlings (W19), Willowshore
+- **Beschreibung & Geheimnisse**: Riesentausendfüßler greifen die Klinik an, die von einem geisterhaften Gecko verteidigt wird. Dr. Damihansig Mababangloob, ein Hypochonder, ist im Inneren verschanzt und möchte seine Klinik nicht verlassen. Er kann den PCs helfen, Weihwasser zu erhalten oder Schlaftee für den Buso zu mischen.
+- **Ziel zum Abschluss**: Die Riesentausendfüßler besiegen und den geisterhaften Gecko verschonen.
+- **Belohnung**: Wenn die PCs den geisterhaften Gecko am Leben lassen, erhalten sie volle EP, als ob sie ihn besiegt hätten.
+
+### THE WORST PUZZLE
+- **Kapitel**: 1
+- **Auftraggeber**: Granny Hu
+- **Ort/Region**: Holztrockenplatz nahe dem Pilzhaus (W24)
+- **Beschreibung & Geheimnisse**: Drei von Granny Hus Enkelkindern und ein Freund sind auf einem Holztrockenplatz von Jinkins in einem gefährlichen Stapel Holz gefangen. Die Jinkins haben eine Falle gebaut, die die Jugendlichen in der Mitte von Holzstapeln festhält.
+- **Ziel zum Abschluss**: Die Holzstapel-Falle entschärfen und die vier Gefangenen befreien.
+- **Belohnung**: Die PCs erhalten EP für jeden überlebenden Festteilnehmer, als ob sie diesen im Kampf besiegt hätten. Die Gruppe erhält außerdem 1 Reputationspunkt bei Northridge.
+
+### RETAILING DAWNSTEP
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki
+- **Ort/Region**: Dawnstep-Brücke (W11), Willowshore
+- **Beschreibung & Geheimnisse**: Die Dawnstep-Brücke wird von einem Buso namens Gurglegut und mehreren Jinkins bewacht. Gurglegut ist stark betrunken. Die PCs können ihn vergiften oder direkt angreifen.
+- **Ziel zum Abschluss**: Gurglegut besiegen und die Dawnstep-Brücke befreien.
+- **Belohnung**: Wenn die PCs Willowshore von Gurglegut befreien und so die Dawnstep-Brücke wieder öffnen, erhalten sie 1 Reputationspunkt bei jeder Fraktion. (Zusätzlich 10 EP für erfolgreiche Spionage vor dem Kampf.)
+
+### Light the Night
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki & Granny Hu
+- **Ort/Region**: Dawnstep-Brücke (W11), Willowshore
+- **Beschreibung & Geheimnisse**: Die Ewige Laterne ist erloschen, was die Ursache für den seltsamen Nebel und den blutroten Mond ist. Um sie wieder anzuzünden, müssen die PCs drei geweihte Kupfermünzen in ihren Brennstoffbehälter legen. Diese Münzen können an verschiedenen Schreinen in Willowshore geweiht werden.
+- **Ziel zum Abschluss**: Drei geweihte Kupfermünzen in die Ewige Laterne legen und sie wieder anzünden.
+- **Belohnung**: 80 EP für das erste Anzünden der Ewigen Laterne. Dies erhöht auch den Ruf der PCs in der Stadt. Sie erhalten 1 Reputationspunkt bei beiden Fraktionen von Willowshore für das erste Anzünden der Laterne. (Zusätzlich erhalten alle PCs einen +1 Gegenstandsbonus auf Fertigkeitswürfe, die sie mit der göttlichen Fertigkeit der Gottheit durchführen, deren Münzen sie platziert haben.)
+
+### B4. PRISON
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event (Zheng Peng)
+- **Ort/Region**: Imperial Guard Office (B4), Willowshore Downtown
+- **Beschreibung & Geheimnisse**: Der Wachhauptmann Zheng Peng und zehn Stadtwachen wurden gefangen genommen und in den Zellen eingesperrt. Sie sind geschwächt. Die Schlüssel zu den Zellen sind unter einem losen Ziegelstein versteckt.
+- **Ziel zum Abschluss**: Zheng Peng und die Wachen befreien.
+- **Belohnung**: Die PCs erhalten 40 EP und 1 Reputationspunkt bei Northridge, wenn sie die Wachen retten.
+
+### B5. OUTDOOR PRISON CELL
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Imperial Guard Office (B5), Willowshore Downtown
+- **Beschreibung & Geheimnisse**: Vier Dorfbewohner wurden in einem Bambuskäfig eingesperrt. Sie sind verängstigt und bitten um Hilfe.
+- **Ziel zum Abschluss**: Die vier Dorfbewohner aus dem Käfig befreien und in Sicherheit bringen.
+- **Belohnung**: Wenn die PCs die Gefangenen retten und in Sicherheit bringen, erhalten sie 20 EP und 1 Reputationspunkt bei Southbank.
+
+### B11. MUDWALL HOUSE
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event (Nadoya Sanmi)
+- **Ort/Region**: Mudwall House (B11), Willowshore Downtown
+- **Beschreibung & Geheimnisse**: Sechs sehr betrunkene Jinkins haben das Haus von Nadoya Sanmi in Beschlag genommen und quälen Yuli Sanmi und Hu Lelong, zwei heimliche Liebende. Die Jinkins spielen mit gestohlenem Schmuck.
+- **Ziel zum Abschluss**: Die Jinkins vertreiben/besiegen und Yuli und Lelong retten.
+- **Belohnung**: Die PCs erhalten EP für das Besiegen der Jinkins oder das normale Vertreiben, bis zu einem Maximalwert von 80 EP, um die geringere Bedrohung zu berücksichtigen. Wenn die PCs Schritte unternehmen, um den gestohlenen Schmuck zurückzugeben, erhalten sie 1 Reputationspunkt bei Northridge. Wenn die PCs das junge Paar aktiv zur Flucht ermutigt oder sogar dabei geholfen haben, verlieren sie zu diesem Zeitpunkt 1 Reputationspunkt bei Southbank, und Nadoyas Einstellung wird zu Beginn von Kapitel 3 automatisch unfreundlich, wenn sie von der Beziehung erfährt.
+
+### B12. BACKYARD STORAGE
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event (Nadoya Sanmi)
+- **Ort/Region**: Backyard Storage (B12), Willowshore Downtown
+- **Beschreibung & Geheimnisse**: Nadoya Sanmi und der Rest ihrer Familie sind in einem sicheren Lagerraum eingesperrt. Sie sind besorgt um Yuli und Lelong.
+- **Ziel zum Abschluss**: Die Familie Sanmi in Sicherheit bringen (nachdem die Jinkins aus B11 vertrieben wurden).
+- **Belohnung**: Die PCs erhalten 20 EP und 1 Reputationspunkt bei Southbank, wenn sie die Familie Sanmi sicher über die Dawnstep-Brücke bringen.
+
+### B14. BATHHOUSE LOCKERS
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event (De-ge)
+- **Ort/Region**: Bathhouse Lockers (B14), Willowshore Downtown
+- **Beschreibung & Geheimnisse**: De-ge, der hypochondrische Besitzer des Badehauses, hat sich in seiner Panik in einem Spind eingesperrt und steckt fest. Fünf Kappas haben das Badehaus besetzt.
+- **Ziel zum Abschluss**: De-ge aus dem Spind befreien und ihn zur Klinik eskortieren.
+- **Belohnung**: Die PCs erhalten 20 EP, wenn sie De-ge zur Klinik eskortieren.
+
+### B15. MOSTLY HAPPY KAPPAS
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event (De-ge)
+- **Ort/Region**: Happy Kappa (B15), Willowshore Downtown
+- **Beschreibung & Geheimnisse**: Fünf Kappas entspannen sich in den Badebecken, nachdem sie die Pferde in den Ställen (B8) gefressen haben. Sie wurden von Mo Douqiu eingeladen, um Willowshore zu übernehmen, bereuen ihre Entscheidung aber allmählich.
+- **Ziel zum Abschluss**: Die Kappas davon überzeugen, Willowshore friedlich zu verlassen.
+- **Belohnung**: Wenn die PCs die Kappas überzeugen, durch Freundlichkeit zu gehen, erhalten sie 60 EP.
+
+### A PARADE OF COOKWARE
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Straßen von Willowshore Downtown
+- **Beschreibung & Geheimnisse**: Gray Butcher, ein Ittan-momen, führt Schwärme von beseeltem Kochgeschirr durch die Straßen. Er ist bösartig und grausam, kann aber abgelenkt oder besänftigt werden.
+- **Ziel zum Abschluss**: Gray Butcher besiegen.
+- **Belohnung**: Für das Besiegen von Gray Butcher erhalten die PCs 1 Reputationspunkt bei jeder Fraktion.
+
+### C2. PANTRY PRISON
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Cerulean Teahouse (C2), Willowshore Downtown
+- **Beschreibung & Geheimnisse**: Mo Douqiu hat 12 Dorfbewohner in der Speisekammer des Teehauses gefangen gehalten. Sie sind gefesselt, entkräftet und haben Angst.
+- **Ziel zum Abschluss**: Die zwölf gefangenen Dorfbewohner befreien.
+- **Belohnung**: Die PCs erhalten 40 EP und 1 Reputationspunkt bei jeder Fraktion, wenn sie diese Gefangenen befreien.
+
+### C3. PRIVATE BANQUET HALL
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Cerulean Teahouse (C3), Willowshore Downtown
+- **Beschreibung & Geheimnisse**: Mo Douqiu, ein Rokurokubi und der Drahtzieher hinter der Invasion der Monster, hat sich hier mit seinen Haustieren verschanzt. Er ist ein Hedonist, der Freude an der Zerstörung und dem Schrecken anderer hat.
+- **Ziel zum Abschluss**: Mo Douqiu besiegen.
+- **Belohnung**: Für das Besiegen von Mo Douqiu erhalten die PCs 1 Reputationspunkt bei jeder Fraktion. Wenn sie sicherstellen, dass alle Leichen in diesem Raum von den Balken entfernt und respektvoll bedeckt oder anderweitig für den Rest der Stadt ansehnlich gemacht werden, damit sie für angemessene Beerdigungen vorbereitet werden können, erhalten die PCs zu diesem Zeitpunkt 1 zusätzlichen Reputationspunkt bei jeder Fraktion.
+
+### Abschluss von Kapitel 2
+- **Kapitel**: 2
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Willowshore
+- **Beschreibung & Geheimnisse**: Nach dem Besiegen der drei monströsen Anführer und dem Anzünden der Ewigen Laterne ziehen sich die verbleibenden Monster zurück. Die Stadt beginnt sich zu erholen.
+- **Ziel zum Abschluss**: Die drei monströsen Anführer besiegen und die Ewige Laterne wieder anzünden.
+- **Belohnung**: Willowshores effektives Level erhöht sich auf 5.
+
+### MISSING BOATS
+- **Kapitel**: 3
+- **Auftraggeber**: Rajul Samudra
+- **Ort/Region**: Willowshore Dock (W23), Gourd Lake (D2)
+- **Beschreibung & Geheimnisse**: Kappas haben zwei Boote vom Dock gestohlen und sind den Fluss hinunter zum Gourd Lake geflohen. Die PCs müssen die Kappas einholen und sie überzeugen, die Boote zurückzugeben, möglicherweise durch einen Sumo-Wrestling-Wettbewerb.
+- **Ziel zum Abschluss**: Drei von fünf Sumo-Wrestling-Kämpfen gegen die Kappas gewinnen.
+- **Belohnung**: Wenn die PCs genügend Kämpfe gewinnen, lernen die Kappas ihre Lektion und stehlen keine Boote mehr. Gewährt den PCs 40 EP und 1 Reputationspunkt bei Northridge.
+
+### FIXING THE RANCH
+- **Kapitel**: 3
+- **Auftraggeber**: Kum Soon-chong
+- **Ort/Region**: Willowshore Stables (W2)
+- **Beschreibung & Geheimnisse**: Die Willowshore Stables wurden während der Monsterinvasion schwer beschädigt. Kum Soon-chong bittet um Hilfe bei der Reparatur des Zauns und der Rückführung des geflohenen Viehbestands.
+- **Ziel zum Abschluss**: 10 Siegpunkte durch Überleben- oder Handwerk-Checks sammeln, um die Ranch zu reparieren.
+- **Belohnung**: Sobald die PCs 10 Siegpunkte erreicht haben, sind die Dienste der Willowshore Stables wieder verfügbar; die PCs erhalten 10 EP und 1 Reputationspunkt bei Southbank.
+
+### MOVING DESNA’S SHRINE
+- **Kapitel**: 3
+- **Auftraggeber**: Choe Chung-hu
+- **Ort/Region**: Verlassene Anwesen (W26), Mühlenhäuser (W8)
+- **Beschreibung & Geheimnisse**: Choe Chung-hu bittet die PCs, einen neuen Standort für den Desna-Schrein in den Verlassenen Anwesen zu finden. Der Schrein wird von einem Shikigami Kami namens Kohoshi bewacht.
+- **Ziel zum Abschluss**: Kohoshi überzeugen, den Umzug zuzulassen, und 5 Siegpunkte durch Athletik- oder Religions-Checks sammeln, um den Schrein umzusiedeln.
+- **Belohnung**: Sobald die PCs 5 Siegpunkte erreicht haben, wird der Schrein in die Mühlenhäuser umgesiedelt, wo Chung-hu sich darum kümmern wird; die PCs erhalten 20 EP und 1 Reputationspunkt bei Southbank.
+
+### INVESTIGATE THE OLD EXPANSION
+- **Kapitel**: 3
+- **Auftraggeber**: Matsuki Shou
+- **Ort/Region**: Alte Dorf-Erweiterung (D8)
+- **Beschreibung & Geheimnisse**: Old Matsuki ist besorgt über die Nahrungsmittelversorgung im Winter und bittet die PCs, ein verlassenes Dorf im Norden zu erkunden, um festzustellen, ob es für den Anbau von Notfallkulturen genutzt werden kann.
+- **Ziel zum Abschluss**: 8 Siegpunkte durch Natur-, Landwirtschafts- oder Gesellschafts-Checks sammeln, um den Standort als landwirtschaftliche Ergänzung für Willowshore zu sichern.
+- **Belohnung**: Das Erreichen von 8 Siegpunkten ist ausreichend, um den Standort als ergänzende landwirtschaftliche Fläche für Willowshore zu sichern. Dies wird Auswirkungen auf das nächste Abenteuer haben. Gewährt den PCs 20 EP und 1 Reputationspunkt bei Southbank.
+
+### SMITH TROUBLES
+- **Kapitel**: 3
+- **Auftraggeber**: Yong Wu-Xiu (oder Zheng Peng)
+- **Ort/Region**: Eternal Blaze Ironworks (W1), Willowshore Barracks (W15)
+- **Beschreibung & Geheimnisse**: Die Imperial Guards fordern kostenlose Waffen und Rüstungen von Eternal Blaze Ironworks, was Yong Wu-Xiu, die Besitzerin, unter Druck setzt. Die PCs müssen entweder Yong Wu-Xiu oder Zheng Peng (Wachhauptmann) überzeugen, ihren Forderungen nachzugeben.
+- **Ziel zum Abschluss**: 6 Siegpunkte durch Einschüchterungs- oder Diplomatie-Checks sammeln, um einen der NPCs zur Einigung zu bewegen.
+- **Belohnung**: Das Erreichen von 6 Siegpunkten ist ausreichend, um den NPC davon zu überzeugen, der von den PCs favorisierten Lösung zuzustimmen. Dies bringt ihnen 20 EP und 1 Reputationspunkt entweder bei Southbank (wenn sie sich auf die Seite von Yong Wu-Xiu stellten) oder Northridge (wenn sie sich auf die Seite von Zheng Peng stellten).
+
+### COLLECTING PEACHWOOD
+- **Kapitel**: 3
+- **Auftraggeber**: Yun Mong-un
+- **Ort/Region**: Peachwood Groves (P) im Umland
+- **Beschreibung & Geheimnisse**: Yun Mong-un, die Holzschnitzerin, bittet um die Beschaffung von Pfirsichholz aus den Wildnis-Hainen, um spezielle Fulus (Talismankarten) zum Schutz vor Geistern und Monstern herzustellen.
+- **Ziel zum Abschluss**: Sammeln und liefern Sie Pfirsichholz-Vorräte im Wert von 10 GM.
+- **Belohnung**: Das erste Mal, dass sie es schaffen, insgesamt 10 GM an Vorräten zu ernten und abzugeben, gewährt ihnen 20 EP und 1 Reputationspunkt bei Northridge. Als Dank für diese Unterstützung bietet Yun Mong-un den PCs an, ihnen die Formel für jedes der seltenen Fulus auf Seite 83 beizubringen und gibt jedem PC außerdem Fulus im Wert von 8 GM als Dank. Unglücklicherweise stört ihre Ernte der Pfirsichholzbäume genügend traditionsbewusste Einheimische, sodass die PCs zu diesem Zeitpunkt auch 1 Reputationspunkt bei Southbank verlieren.
+
+### THE TEAHOUSE OWNER’S WILL
+- **Kapitel**: 3
+- **Auftraggeber**: Luo Xi Yang (oder Erkundung/Event)
+- **Ort/Region**: Cerulean Teahouse (C1), Eyes of Fumeiyoshi (D9a, D9b)
+- **Beschreibung & Geheimnisse**: Das Testament der exzentrischen Aristokratin Qing Mai-Lai besagt, dass das Cerulean Teahouse an die erste Person oder Gruppe geht, die "die zwei Perlen, die ich in Fumeiyoshis Augen geworfen habe," wiederfindet. Diese "Augen" sind zwei Teiche nördlich der Stadt.
+- **Ziel zum Abschluss**: Die beiden Perlen aus den Eyes of Fumeiyoshi bergen.
+- **Belohnung**: Jede der Perlen ist 10 GM wert. Wenn die PCs beide bergen, sind sie berechtigt, das Cerulean Teahouse als Geschäft zu beanspruchen; Regeln für die Restaurierung des Teehauses und dessen Betrieb werden im nächsten Season of Ghosts Abenteuer, „Let the Leaves Fall“, erscheinen. Gewährt den PCs 40 EP für die Beanspruchung des Besitzes des Cerulean Teahouse.
+
+### TEA FARM INFESTATION
+- **Kapitel**: 3
+- **Auftraggeber**: Mountain Summit Grass
+- **Ort/Region**: The Leshy’s Salon (W27)
+- **Beschreibung & Geheimnisse**: Nach der Übernahme des Cerulean Teahouse werden die PCs vom Leshy-Teemacher Mountain Summit Grass angesprochen, der um Hilfe bei der Bekämpfung eines hartnäckigen Pilzbefalls auf den Teepflanzen bittet.
+- **Ziel zum Abschluss**: 10 Siegpunkte durch Natur- oder Landwirtschafts-Checks sammeln, um den Pilzbefall zu beseitigen.
+- **Belohnung**: Sobald die PCs 10 Siegpunkte erreicht haben, haben sie den Pilzbefall aus dem Leshy’s Salon beseitigt. Gewährt ihnen 20 EP. Zusätzlich wird die im Leshy’s Salon erworbene Dankbarkeit der Gruppe beim Tee-Nachschub helfen, wenn sie das Cerulean Teahouse betreiben, wie im nächsten Abenteuer beschrieben.
+
+### The Missing Governor
+- **Kapitel**: 3
+- **Auftraggeber**: Old Matsuki & Granny Hu
+- **Ort/Region**: Canary Inn (D4), Umland
+- **Beschreibung & Geheimnisse**: Der Gouverneur und sein Anwesen sind spurlos verschwunden. Die Ältesten vermuten eine Verbindung zu einem Ereignis vor drei Jahren, als die Sängerin Fan Hongrui einen Fluch aussprach, bevor sie im Canary Inn verbrannte.
+- **Ziel zum Abschluss**: Zum Canary Inn reisen und den Ort untersuchen.
+- **Belohnung**: Keine direkte Belohnung für den Beginn der Untersuchung, sondern für die Teilaufgaben.
+
+### SONGS AT CANARY INN
+- **Kapitel**: 3
+- **Auftraggeber**: Erkundung/Event (Fan Hongrui)
+- **Ort/Region**: Canary Inn (D4), Umland
+- **Beschreibung & Geheimnisse**: Fan Hongrui, jetzt eine rotkapuzige Thatchling, und zwei weitere Thatchlings sind am Canary Inn. Hongrui ist neugierig auf die PCs und fragt nach ihrer Absicht. Sie kann sich beruhigen lassen oder wird kämpfen, wenn sie provoziert wird.
+- **Ziel zum Abschluss**: Die drei Thatchlings zur Ruhe bringen (friedlich oder durch Kampf).
+- **Belohnung**: Wenn die PCs die drei Thatchlings zur Ruhe bringen, erhalten sie 40 EP zusätzlich zu dem, was sie für deren Besiegen im Kampf erhalten hätten. Thatchlings werden im Willowshore-Gedankenraum nicht mehr angetroffen, und jede zufällige Begegnung, die zu einem Thatchling führt, wird als keine Begegnung behandelt. Zusätzlich fühlt sich die Region insgesamt etwas weniger heimgesucht an. Dies verbessert die Moral der Stadtbewohner, und die PCs erhalten 1 Reputationspunkt bei Northridge und Southbank.
+
+### VISITING GREAT WILLOW
+- **Kapitel**: 3
+- **Auftraggeber**: Old Matsuki & Granny Hu
+- **Ort/Region**: Great Willow (W29), Willowshore Hügel
+- **Beschreibung & Geheimnisse**: Die PCs werden gebeten, den Großen Weidenbaum auf dem Hügel nördlich der Stadt zu besuchen, wo ein Kodama namens Großer Weidenbaum wohnt. Der Kodama ist die beste Informationsquelle über die seltsamen Nebel, die Willowshore umgeben, aber auch von einem Pilzbefall geplagt.
+- **Ziel zum Abschluss**: Mit dem Großen Weidenbaum kooperieren und Informationen über die Nebel erhalten.
+- **Belohnung**: Wenn die PCs den Großen Weidenbaum freundlich gestimmt haben, schenkt ihnen das dankbare Kodama, sobald sie abreisen wollen, ein Abschiedsgeschenk – ein kleineres Kletterseil (Advanced Player’s Guide 262), gefertigt aus übernatürlich geschmeidigen, geflochtenen Weidenzweigen.
+
+### INTO THE INFESTATION
+- **Kapitel**: 3
+- **Auftraggeber**: Great Willow
+- **Ort/Region**: Infested Grove (D7), Süd-Willowshore
+- **Beschreibung & Geheimnisse**: Ein Pilzbefall hat den Weidenhain südlich von Willowshore überwuchert. Ein Myzeloid namens Xungu hat sich dort niedergelassen und greift Eindringlinge an.
+- **Ziel zum Abschluss**: Xungu besiegen und den Pilzbefall im Hain beenden.
+- **Belohnung**: Mit Xungus Tod beginnt der Pilzbefall im Hain sofort zurückzugehen, wobei Pilze und Schimmel schrumpfen, schmelzen und verdunsten. Nach nur einer Stunde ist der Hain vollständig wiederhergestellt. Zu diesem Zeitpunkt behandelt ein PC, der an Purpelflecken leidet, alle Rettungswürfe gegen die von Xungu verursachte Krankheit als automatische Erfolge (betroffene PCs sollten dennoch den Rettungswurf machen, um festzustellen, ob sie einen kritischen Erfolg erzielen).
+
+### RESCUING UGLY CUTE
+- **Kapitel**: 3
+- **Auftraggeber**: Old Matsuki & Granny Hu
+- **Ort/Region**: Gorge of Fangs and Teeth (D10), Süd-Willowshore
+- **Beschreibung & Geheimnisse**: Ugly Cute, der steinerne Spinnenwächter, wurde von Noppera-bos verwundet und ist in die Schlucht der Reißzähne und Zähne zurückgekehrt, den Ort seiner Entstehung. Er wird dort von zwei Geröllschwärmen angegriffen, die ihn am Heilen hindern.
+- **Ziel zum Abschluss**: Die Geröllschwärme besiegen und mit Ugly Cute sprechen.
+- **Belohnung**: Für die Rettung von Ugly Cute erhalten die PCs EP, als ob sie die Steinschlange im Kampf besiegt hätten. Zusätzlich erhalten sie 2 Reputationspunkte bei beiden Fraktionen, sobald Ugly Cute seinen Posten am Spinnentor wieder aufnimmt.
+
+### Who Leads Willowshore?
+- **Kapitel**: 3
+- **Auftraggeber**: Old Matsuki & Granny Hu
+- **Ort/Region**: Lady of Souls (W10), Willowshore
+- **Beschreibung & Geheimnisse**: Die Spannungen zwischen Old Matsuki und Granny Hu eskalieren zu einer öffentlichen Herausforderung um die Führung von Willowshore. Die PCs haben sieben Tage Zeit, um zu entscheiden, ob sie eine Fraktion unterstützen, deeskalieren oder sich selbst als dritte Kandidaten vorschlagen.
+- **Ziel zum Abschluss**: Eine friedliche Lösung für die Führungsfrage finden, indem sie genügend Einfluss (7 Reputationspunkte) bei einem der Ältesten sammeln, um ihn zum Rücktritt zu bewegen.
+- **Belohnung**: Wenn die PCs einen der Ältesten überzeugen, dem anderen nachzugeben und eine friedliche Lösung zu erzielen, erhalten die PCs 80 EP und 2 Reputationspunkte bei der Fraktion, deren Ältester zum Anführer der Stadt wird.
+
+### THE MERCHANT RETURNS
+- **Kapitel**: 4
+- **Auftraggeber**: Shinzo
+- **Ort/Region**: Willowshore, Weg zum Holzfällerlager
+- **Beschreibung & Geheimnisse**: Vor ihrer Abreise zum Holzfällerlager begegnen die PCs dem mysteriösen Händler Shinzo erneut. Er warnt sie vor den "Banditen" im Westen und bietet ihnen ein Geschenk an, je nachdem, ob ihre Herangehensweise Rache oder List ist.
+- **Ziel zum Abschluss**: Shinzo treffen und auf seine Frage antworten.
+- **Belohnung**: Wenn die Antwort der PCs auf Rache oder Gerechtigkeit abzielt, schenkt er ihnen einen Mantel der Gerechtigkeit (Seite 81) und eine Warnung, nicht von ihrem Pfad abzuweichen. Wenn die Antwort der PCs auf List abzielt, schenkt Shinzo ihnen eine Noppera-Bo-Haube (Seite 82) und beglückwünscht sie zu ihrem Mut. Welchen Gegenstand er nicht schenkt, bleibt zum Kauf verfügbar, zusammen mit allen anderen Gegenständen, die er möglicherweise anzubieten hat.
+
+### E1. ENTRANCE
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Eingang des Holzfällerlagers (E1)
+- **Beschreibung & Geheimnisse**: Zwei Noppera-bo Tricksters in menschlicher Verkleidung bewachen den Eingang zum Holzfällerlager und streiten sich. Sie werden von dem ehemaligen Wachhund Jerky begleitet.
+- **Ziel zum Abschluss**: Den Eingang passieren, Jerky möglicherweise auf ihre Seite ziehen.
+- **Belohnung**: Keine direkte Belohnung, aber Jerky kann ein Verbündeter werden.
+
+### E10. MANAGER’S DORMITORY
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event (Kum Soon-chong)
+- **Ort/Region**: Manager’s Dormitory (E10), Holzfällerlager
+- **Beschreibung & Geheimnisse**: Kum Soon-chong, der Besitzer der Willowshore Stables, wird von zwei Noppera-bo Occultists als Gefangener gehalten. Sein Sohn Meng-sung wurde bereits weggebracht, um geopfert zu werden.
+- **Ziel zum Abschluss**: Die Noppera-bo Occultists besiegen und Kum Soon-chong retten.
+- **Belohnung**: Wenn die PCs Soon-chong retten, erhalten die PCs 40 EP sowie 1 Reputationspunkt bei beiden Fraktionen, sobald er nach Hause zurückkehrt. Wenn sie ihn absichtlich verletzen oder für seinen Tod verantwortlich sind, verlieren sie 5 Reputationspunkte bei beiden Fraktionen.
+
+### E13. GUEST HOUSE
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event (Abacus Sisters)
+- **Ort/Region**: Guest House (E13), Holzfällerlager
+- **Beschreibung & Geheimnisse**: Die Jinkins Midori und Murasaki, zusammen mit ihrem Wiesel Noodles (falls sie Chapter 1 überlebt haben), wurden von den Prayers gefangen und als potenzielle Verbündete hierher gebracht. Sie sind nicht eingesperrt und können leicht entkommen, wenn die PCs sie darauf aufmerksam machen.
+- **Ziel zum Abschluss**: Den Abacus Sisters helfen zu entkommen.
+- **Belohnung**: Wenn die PCs den Abacus Sisters helfen zu entkommen, erhalten sie EP, als ob sie sie im Kampf besiegt hätten.
+
+### E14. WORKER’S DORMITORY
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Worker’s Dormitory (E14), Holzfällerlager
+- **Beschreibung & Geheimnisse**: Zwei Noppera-bo Occultists beten vor einer Effigie, die Kugaptee darstellt. Sie können den PCs Informationen über Kugaptee und die Spaltung zwischen den Prayers (Zoudou) und Rovers (Mugirou) geben. Sie sind zu einem Handel bereit, um Mugirou zu besiegen.
+- **Ziel zum Abschluss**: Mit den Okkultisten verhandeln oder sie besiegen.
+- **Belohnung**: Wenn die PCs den Handel abschließen, um Mugirou zu besiegen, erhalten sie von den Noppera-bo-Okkultisten einen Anhänger des Okkultismus, bevor sie zum Ritualort eskortiert werden. Wenn die PCs stattdessen die Okkultisten besiegen, können sie denselben Gegenstand erhalten, der an einem der „Arme“ der Kugaptee-Effigie hängt.
+
+### E16. MUGIROU’S THRONE
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Mugirou’s Throne (E16), Holzfällerlager
+- **Beschreibung & Geheimnisse**: Mugirou, der Anführer der Rovers, sitzt auf seinem Thron, während vier Noppera-bo Grunts Gefangene quälen. Mugirou ist gelangweilt und bereit, einen Handel mit den PCs einzugehen, um Zoudous Einfluss zu beenden.
+- **Ziel zum Abschluss**: Mugirou besiegen oder einen Handel mit ihm abschließen und die Gefangenen befreien.
+- **Belohnung**: Wenn die PCs einen Handel mit Mugirou abschließen, erhalten sie EP, als ob sie ihn und seine Grunzer im Kampf besiegt hätten, aber wenn sich in Willowshore herumspricht, dass die PCs diese Monster am Leben ließen oder sie nicht vertrieben haben, verlieren sie 1 Reputationspunkt bei jeder Fraktion. Wenn die PCs die vier Gefangenen erfolgreich retten, übergeben die dankbaren Bauern der Gruppe einen Handwerker-Okular einen Tag, nachdem sie sicher nach Hause zurückgekehrt sind.
+
+### ZOUDOU’S RITE
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Ritual Site (D12), Umland
+- **Beschreibung & Geheimnisse**: Zoudou die Eifrige, Anführerin der Prayers, führt ein Ritual durch, um Kum Meng-sung (Soon-chongs Sohn) dem "Großen Kugaptee" zu opfern. Zwei Noppera-bo Occultists unterstützen sie dabei. Zoudou ist arrogant und erwartet keine Unterbrechung.
+- **Ziel zum Abschluss**: Das Ritual unterbrechen, Meng-sung retten und Zoudou besiegen.
+- **Belohnung**: Wenn das Ritual unterbrochen wird, erscheinen Kugaptees Segnungen. (Keine explizite XP-Belohnung für Zoudou selbst, aber für die Kampfbegegnung).
+
+### Abschluss des Abenteuers
+- **Kapitel**: 4
+- **Auftraggeber**: Erkundung/Event
+- **Ort/Region**: Willowshore
+- **Beschreibung & Geheimnisse**: Nach dem Kampf im Holzfällerlager lösen sich die verbleibenden Noppera-bos auf. Die PCs kehren mit den Entführten nach Willowshore zurück, die Stadt ist gestärkt.
+- **Ziel zum Abschluss**: Die Entführten aus den Ställen befreien und nach Willowshore zurückkehren.
+- **Belohnung**: Wenn die PCs mit den Entführten aus den Ställen nach Willowshore zurückkehren, werden sie als Helden begrüßt und erhalten 3 Reputationspunkte bei beiden Fraktionen. Willowshores effektives Level steigt auf 5.

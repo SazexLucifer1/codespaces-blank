@@ -1,0 +1,19 @@
+# AKTIVE UND BEKANNTE QUESTS DER SPIELER
+
+### The Summer That Never Was – Kampagnenübersicht
+- **Kapitel**: 1
+- **Auftraggeber**: Erkundung/Event
+- **Ort**: Shenmen, Willowshore
+- **Ziel/Aufgabe**: Die PCs sollen die Mysterien des Gedankenreichs lüften, Willowshore von Monstern befreien und letztendlich einen Weg zurück in die lebendige Welt finden.
+- **Belohnung**: 
+- **Status**: Aktiv
+- **Spieler-Notizen**: Vom Spielleiter manuell aufgedeckt.
+
+### Retaking Dawnstep
+- **Kapitel**: 1
+- **Auftraggeber**: Old Matsuki
+- **Ort**: Dawnstep-Brücke (W11), Willowshore
+- **Ziel/Aufgabe**: Den Anführer der Monster auf der Dawnstep-Brücke besiegen und die Brücke zurückerobern.
+- **Belohnung**: Wenn die SC Willowshore von Gurglegut befreien und somit die Dawnstep-Brücke wieder öffnen, erhalten sie 1 Rufpunkt bei jeder Fraktion. Gegenstände: Ein Silberszepter mit Halbedelsteinen (15 GP), ein Deck mit vollen Zaubersprüchen (Cantrip Deck), drei alte Kupfermünzen (Wert 3 KP), die einst die Ewige Laterne beleuchteten.
+- **Status**: Geschafft
+- **Spieler-Notizen**: Quest freigeschaltet.
