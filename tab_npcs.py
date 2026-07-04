@@ -4,6 +4,34 @@ import re
 from google import genai
 
 def render_tab(api_key, fortschritt_stufen, fortschritt, sammle_kampagnen_texte, sammle_nur_kapitel_text):
+
+    # 1. Passwort-Abfrage in der Sidebar platzieren
+    st.sidebar.markdown("---")
+    st.sidebar.subheader("🔒 Spielleiter-Bereich")
+    passwort_eingabe = st.sidebar.text_input("GM-Passwort eingeben:", type="password", key="gm_password_input")
+
+    # Prüfen, ob das Passwort stimmt
+    passwort_korrekt = (passwort_eingabe == "pf2e")
+
+    # --- GAMEMASTER REGULIERUNG (Jetzt komplett abgesichert!) ---
+    ist_spielleiter = False
+    
+    if passwort_korrekt:
+        st.sidebar.success("🔑 Passwort korrekt!")
+        st.sidebar.markdown("---")
+        
+        # Das Radio-Feld wird NUR angezeigt, wenn das Passwort stimmt
+        ansichts_modus = st.sidebar.radio(
+            "👁️ Ansichts-Modus wechseln",
+            ["Spieler-Ansicht", "🛡️ Spielleiter-Ansicht"],
+            index=1,  # Springt direkt in die GM-Sicht, wenn das Passwort eingegeben wird
+            key="npc_view_mode"
+        )
+        ist_spielleiter = ansichts_modus == "🛡️ Spielleiter-Ansicht"
+    else:
+        # Wenn kein oder das falsche Passwort eingegeben wurde, ist man IMMER Spieler
+        ist_spielleiter = False
+
     st.subheader("👤 NPC-Chronik & Dorfverwaltung")
 
     NPC_DATEI = "npc_chronik.txt"
@@ -20,16 +48,6 @@ def render_tab(api_key, fortschritt_stufen, fortschritt, sammle_kampagnen_texte,
     if "npc_inhalt" not in st.session_state:
         with open(NPC_DATEI, "r", encoding="utf-8") as f:
             st.session_state.npc_inhalt = f.read()
-
-    # --- GAMEMASTER REGULIERUNG ---
-    st.sidebar.markdown("---")
-    ansichts_modus = st.sidebar.radio(
-        "👁️ Ansichts-Modus wechseln",
-        ["Spieler-Ansicht", "🛡️ Spielleiter-Ansicht"],
-        index=0,
-        key="npc_view_mode"
-    )
-    ist_spielleiter = ansichts_modus == "🛡️ Spielleiter-Ansicht"
 
     # --- HILFSFUNKTION FÜR BILD-DATEINAMEN ---
     def generiere_sauberen_dateiname(npc_name):
@@ -51,20 +69,17 @@ def render_tab(api_key, fortschritt_stufen, fortschritt, sammle_kampagnen_texte,
     if ist_spielleiter:
         st.write("### 🛠️ Spielleiter-Werkzeuge (PDF-Verarbeitung)")
         
-        # Lade die PDF-Texte (Hier wird jetzt nichts mehr abgeschnitten!)
+        # Lade die PDF-Texte
         max_kapitel = fortschritt_stufen[fortschritt]
         aktive_texte = sammle_kampagnen_texte(max_kapitel)        
         kapitel_nur_texte = sammle_nur_kapitel_text(max_kapitel)  
 
-        # Variablen vorab definieren, um den NameError zu verhindern
         btn_scan = False
         btn_init = False
 
-        # Debug-Anzeige, damit du siehst, ob PDFs geladen wurden
         if not kapitel_nur_texte:
             st.warning("⚠️ Hinweis: Es wurden keine Textinhalte für das aktuelle Kapitel gefunden. Prüfe deinen PDF-Ordner!")
 
-        # Zwei Buttons direkt nebeneinander anzeigen
         scan_col1, scan_col2 = st.columns(2)
         
         with scan_col1:
@@ -72,7 +87,6 @@ def render_tab(api_key, fortschritt_stufen, fortschritt, sammle_kampagnen_texte,
         with scan_col2:
             btn_init = st.button("🚀 Dorf Willowshore initialisieren", key="btn_npc_init", use_container_width=True)
 
-        # LOGIK FÜR DEN SCAN NACH NEUEN NPCs (KOMPLETTER TEXT)
         if btn_scan:
             if not api_key:
                 st.error("API-Key fehlt!")
@@ -110,7 +124,6 @@ def render_tab(api_key, fortschritt_stufen, fortschritt, sammle_kampagnen_texte,
                     except Exception as e:
                         st.error(f"Fehler beim Scannen: {e}")
 
-        # LOGIK FÜR DIE INITIALISIERUNG (Spielerleitfaden -> 100% ÖFFENTLICH, KEINE SPOILER)
         if btn_init:
             if not api_key:
                 st.error("API-Key fehlt!")
@@ -151,7 +164,6 @@ Antworte NUR mit dieser Markdown-Liste, beginnend mit '# BEKANNTE NPCs IN WILLOW
                     except Exception as e:
                         st.error(f"Fehler bei der Einrichtung: {e}")
 
-        # Wenn NPCs im Pool sind, Dropdown zum Importieren anzeigen
         if "gescannter_npc_pool" in st.session_state and st.session_state.gescannter_npc_pool:
             npc_auswahl = st.selectbox("Wähle einen erkannten NPC zum Importieren:", st.session_state.gescannter_npc_pool)
             
@@ -162,7 +174,6 @@ Antworte NUR mit dieser Markdown-Liste, beginnend mit '# BEKANNTE NPCs IN WILLOW
                     client = genai.Client(api_key=api_key)
                     kapitel_text_gesamt = "\n".join(kapitel_nur_texte)
                     
-                    # Wir zwingen Gemini NUR die Gesinnung und die reinen Geheimnisse zu liefern!
                     detail_prompt = f"""Du bist der Chronist für eine Pen&Paper Kampagne. Analysiere den folgenden Text und extrahiere ALLE verfügbaren Informationen, Beschreibungen, Hintergründe, Werte und Story-Details zu dem NPC '{npc_auswahl}'.
                     
 TEXTAUSZUG:
@@ -183,7 +194,6 @@ Gesinnung: [Verbündeter/Gegner/Unbekannt]
                             response = client.models.generate_content(model='gemini-2.5-flash', contents=detail_prompt)
                             ki_antwort = response.text.strip()
                             
-                            # Gesinnung aus der KI-Antwort parsen (Standard ist Unbekannt, falls die KI patzt)
                             gesinnung = "Unbekannt"
                             geheimnis_zeilen = []
                             
@@ -193,21 +203,17 @@ Gesinnung: [Verbündeter/Gegner/Unbekannt]
                                     if "verbündeter" in wert.lower(): gesinnung = "Verbündeter"
                                     elif "gegner" in wert.lower(): gesinnung = "Gegner"
                                 elif zeile.strip().startswith("-"):
-                                    # Sicherstellen, dass die Zeile das richtige Format hat
                                     if not "**Geheimnis**" in zeile:
                                         bereinigte_zeile = zeile.replace("-", "").strip()
                                         geheimnis_zeilen.append(f"- **Geheimnis**: {bereinigte_zeile}")
                                     else:
                                         geheimnis_zeilen.append(zeile.strip())
                             
-                            # Falls die KI gar nichts geliefert hat, einen Standard-Punkt setzen
                             if not geheimnis_zeilen:
                                 geheimnis_zeilen.append(f"- **Geheimnis**: Infos wurden aus dem Text extrahiert, müssen aber noch sortiert werden.")
 
                             geheimnisse_text = "\n".join(geheimnis_zeilen)
 
-                            # HIER DER TRICK: Wir bauen das Markdown komplett in Python zusammen. 
-                            # Der öffentliche Teil IST garantiert leer!
                             neuer_npc_text = f"""### {npc_auswahl}
 - **Gesinnung**: {gesinnung}
 #### 👥 Öffentlich bekannte Infos
@@ -218,7 +224,6 @@ Gesinnung: [Verbündeter/Gegner/Unbekannt]
 #### 🔒 Spielleiter-Geheimnisse
 {geheimnisse_text}"""
 
-                            # In Datei speichern
                             neuer_gesamt_inhalt = st.session_state.npc_inhalt.strip() + "\n\n" + neuer_npc_text.strip()
                             with open(NPC_DATEI, "w", encoding="utf-8") as f:
                                 f.write(neuer_gesamt_inhalt)
@@ -302,18 +307,17 @@ Gesinnung: [Verbündeter/Gegner/Unbekannt]
                     
                     st.markdown(oeffentlicher_teil)
                     
+                    # Geheimnisse sind JETZT NUR NOCH SICHTBAR, wenn das Passwort stimmt UND die GM-Ansicht aktiv ist!
                     if ist_spielleiter and geheimer_teil.strip():
                         st.markdown("#### 🔒 Spielleiter-Geheimnisse (Nur für dich sichtbar)")
                         
                         geheimnis_linien = geheimer_teil.split("\n")
-                        # HIER NEU: enumerate nutzen für einen absolut eindeutigen Key pro Zeile
                         for idx_linie, linie in enumerate(geheimnis_linien):
                             if linie.strip().startswith("-"):
                                 g_col1, g_col2 = st.columns([4, 1])
                                 with g_col1:
                                     st.markdown(linie)
                                 with g_col2:
-                                    # Eindeutiger Key durch Kombination aus Name, Text-Snippet und Zeilen-Index
                                     line_key = re.sub(r'\W+', '', linie)[:15]
                                     unique_btn_key = f"share_{clean_name}_{line_key}_{idx_linie}"
                                     
@@ -332,7 +336,6 @@ Gesinnung: [Verbündeter/Gegner/Unbekannt]
                                             gesuchte_linie = linie
                                             getroffen = False
                                             for idx, l in enumerate(linien_original):
-                                                # Falls exakt diese Zeile gemeint ist (beim ersten Match löschen)
                                                 if l.strip() == gesuchte_linie.strip() and not getroffen:
                                                     getroffen = True
                                                     continue
@@ -378,7 +381,7 @@ Gesinnung: [Verbündeter/Gegner/Unbekannt]
                                     if st.button("🔴", key=f"btn_gegn_{npc_name}"): ändere_gesinnung("Gegner")
                                 with z_col3:
                                     if st.button("⚪", key=f"btn_unb_{npc_name}"): ändere_gesinnung("Unbekannt")
-                        
+                                
                         with b_col2:
                             st.caption("Lebensstatus:")
                             def setze_lebensstatus(tot_machen=True):
