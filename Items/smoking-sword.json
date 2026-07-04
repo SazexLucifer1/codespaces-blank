@@ -1,0 +1,122 @@
+{
+    "_id": "onFxlajKyWpHZcXt",
+    "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/smoking-sword.webp",
+    "name": "Smoking Sword",
+    "system": {
+        "ammo": null,
+        "baseItem": "longsword",
+        "bonus": {
+            "value": 0
+        },
+        "bonusDamage": {
+            "value": 0
+        },
+        "bulk": {
+            "value": 1
+        },
+        "category": "martial",
+        "containerId": null,
+        "damage": {
+            "damageType": "slashing",
+            "dice": 1,
+            "die": "d8"
+        },
+        "description": {
+            "value": "<p>Smoke constantly belches from this +1 magic longsword. Any successful Strike with this sword deals 1 extra fire damage. You can use a special action to make the blade's edges light on fire.</p><hr /><p><strong>Activate—Stoke Flames</strong> <span class=\"action-glyph\">1</span> (concentrate)</p>\n<p>Until the end of your turn, the blade deals 1d6 extra fire damage instead of just 1. After you use this action, you can't use it again for 10 minutes.</p>"
+        },
+        "expend": null,
+        "grade": null,
+        "group": "sword",
+        "hardness": 0,
+        "hp": {
+            "max": 0,
+            "value": 0
+        },
+        "level": {
+            "value": 3
+        },
+        "material": {
+            "grade": null,
+            "type": null
+        },
+        "price": {
+            "value": {
+                "gp": 60
+            }
+        },
+        "publication": {
+            "license": "ORC",
+            "remaster": true,
+            "title": "Pathfinder Beginner Box: Secrets of the Unlit Star"
+        },
+        "quantity": 1,
+        "range": null,
+        "reload": {
+            "value": null
+        },
+        "rules": [
+            {
+                "key": "RollOption",
+                "label": "PF2E.SpecificRule.SmokingSword.StokeFlames",
+                "option": "stoke-flames",
+                "toggleable": true
+            },
+            {
+                "damageType": "fire",
+                "hideIfDisabled": true,
+                "key": "FlatModifier",
+                "predicate": [
+                    {
+                        "not": "stoke-flames"
+                    }
+                ],
+                "selector": [
+                    "{item|id}-damage"
+                ],
+                "value": 1
+            },
+            {
+                "damageType": "fire",
+                "diceNumber": 1,
+                "dieSize": "d6",
+                "key": "DamageDice",
+                "predicate": [
+                    "stoke-flames"
+                ],
+                "selector": "{item|id}-damage"
+            }
+        ],
+        "runes": {
+            "potency": 1,
+            "property": [],
+            "striking": 0
+        },
+        "size": "med",
+        "specific": {
+            "material": {
+                "grade": null,
+                "type": null
+            },
+            "runes": {
+                "potency": 1,
+                "property": [],
+                "striking": 0
+            }
+        },
+        "splashDamage": {
+            "value": 0
+        },
+        "traits": {
+            "rarity": "common",
+            "value": [
+                "fire",
+                "magical",
+                "versatile-p"
+            ]
+        },
+        "usage": {
+            "value": "held-in-one-hand"
+        }
+    },
+    "type": "weapon"
+}
