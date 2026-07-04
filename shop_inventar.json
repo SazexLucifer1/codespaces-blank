@@ -1,0 +1,9 @@
+{
+    "Healing Potion (Minor)": {
+        "Englischer_Name": "Healing Potion (Minor)",
+        "Kategorie": "🧪 Alchemistische Gegenstände (Elixiere, Bomben)",
+        "Preis": "4 GP",
+        "Beschreibung": "Activate A (manipulate)A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain @Damage[1d8[healing]] Hit Points.",
+        "Link": "https://2e.aonprd.com/Search.aspx?q=Healing%20Potion%20%28Minor%29"
+    }
+}

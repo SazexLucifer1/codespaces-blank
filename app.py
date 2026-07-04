@@ -6,6 +6,9 @@ from google import genai
 from pypdf import PdfReader
 from dotenv import load_dotenv
 
+# Importiere das Shop-Modul
+from shinzo_shop import render_shop_tab
+
 # Importiere die einzelnen Tabs
 import tab_tagebuch
 import tab_quests
@@ -114,13 +117,11 @@ def sammle_nur_kapitel_text(kapitel_nr):
 def sammle_charakter_texte(namen_liste):
     """Liest ausgewählte Charakterbögen als Text ein. 
     Kann mit einzelnen Strings oder Listen umgehen."""
-    # Falls nur ein einzelner Name (String) übergeben wurde, in eine Liste packen
     if isinstance(namen_liste, str):
         namen_liste = [namen_liste]
         
     texte = []
     for name in namen_liste:
-        # Falls durch Fehler leere Fragmente oder Einzelbuchstaben landen, überspringen
         if len(name) <= 1:
             continue
             
@@ -129,7 +130,6 @@ def sammle_charakter_texte(namen_liste):
         if text:
             texte.append(f"--- Charakterbogen {name} ---\n{text}")
             
-    # Rückgabe als ein großer, zusammenhängender String für den KI-Prompt
     return "\n\n".join(texte)
 
 
@@ -150,8 +150,13 @@ if st.sidebar.button("🗑️ Text-Cache leeren"):
 
 fortschritt_stufen = {"Nur Spieler-Leitfaden": 0, "Kapitel 1": 1, "Kapitel 2": 2, "Kapitel 3": 3, "Kapitel 4": 4}
 
-# Die 3 Haupt-Tabs rendern und Funktionen aus den Modulen aufrufen
-tab1, tab2, tab3 = st.tabs(["📜 In-Character Tagebuch", "⚔️ Quest-Logbuch", "👤 NPC-Chronik"])
+# Die Haupt-Tabs rendern (jetzt mit 4 Tabs inklusive Shinzos Shop)
+tab1, tab2, tab3, tab4 = st.tabs([
+    "📜 In-Character Tagebuch", 
+    "⚔️ Quest-Logbuch", 
+    "👤 NPC-Chronik", 
+    "🏮 Shinzos Shop"
+])
 
 with tab1:
     tab_tagebuch.render_tab(api_key, fortschritt_stufen, fortschritt, lokale_charaktere, sammle_kampagnen_texte, sammle_charakter_texte)
@@ -161,3 +166,7 @@ with tab2:
 
 with tab3:
     tab_npcs.render_tab(api_key, fortschritt_stufen, fortschritt, sammle_kampagnen_texte, sammle_nur_kapitel_text)
+
+with tab4:
+    # Vorher: render_shop_tab()
+    render_shop_tab(api_key)  # <-- Hier das api_key eintragen!
